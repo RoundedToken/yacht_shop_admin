@@ -1,4 +1,9 @@
 # YachtShop Admin Panel
+
+## Description
+
+Admin panel for detailed sales analysis across different segment for [YachtShop](https://github.com/RoundedToken/yacht_shop)
+
 ## Front-end stack
 
 <p>

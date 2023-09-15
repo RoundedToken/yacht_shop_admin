@@ -1,0 +1,25 @@
+.root {
+    display: flex;
+    gap: 50px;
+    height: min-content;
+}
+
+.backButton {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    font-size: 24px;
+    font-weight: 600;
+    padding: 10px;
+}
+
+.orderList li {
+    display: flex;
+    gap: 10px;
+    width: max-content;
+}
+
+.listTitle {
+    font-size: 18px;
+    font-weight: 800;
+}

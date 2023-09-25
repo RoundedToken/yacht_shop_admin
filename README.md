@@ -45,7 +45,7 @@ YachtShop Admin Panel –– a minimalist SPA for internal use by the [YachtShop
 - Designed a `multilayer architecture` with `routing`, `controllers` and application `services` on the `Express framework`
 - Wrote complex `SQL queries` in native `MS SQL` query language
 - Applied best practices like `code reuse`, `isolation` and `parallelization of asynchronous operations`
-- Covered all scenarios with 34 `isolated tests` using the `Bun API`
+- Covered all scenarios with `34 isolated tests` using the `Bun API`
 
 ### Front-end
 

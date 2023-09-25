@@ -6,6 +6,7 @@ class SalesController {
     getSales: RequestHandler = async (req, res, next) => {
         try {
             const params = req.query as TGetSalesParams;
+            console.log(params);
 
             const sqlResData = await salesService.getSales(params);
 

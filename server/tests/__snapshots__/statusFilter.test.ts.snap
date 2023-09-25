@@ -1,0 +1,4111 @@
+// Bun Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Status Filter Get Sales status [3] 1`] = `
+{
+  "clients": [
+    {
+      "id": null,
+      "name": null,
+    },
+    {
+      "id": 245,
+      "name": "Щербаков Антон Васильевич",
+    },
+    {
+      "id": 627,
+      "name": "Sailtech Oy (Финляндия)",
+    },
+    {
+      "id": 676,
+      "name": "Maritim-Finland",
+    },
+    {
+      "id": 940,
+      "name": "web",
+    },
+    {
+      "id": 1108,
+      "name": "TREM",
+    },
+    {
+      "id": 1702,
+      "name": "MarineTech (Germany)",
+    },
+    {
+      "id": 2766,
+      "name": "Optiparts",
+    },
+    {
+      "id": 2773,
+      "name": "Windex (Sweden)",
+    },
+    {
+      "id": 9901,
+      "name": "Anton Scherbakov",
+    },
+    {
+      "id": 11182,
+      "name": "_jamuuk",
+    },
+    {
+      "id": 11183,
+      "name": "PJK",
+    },
+    {
+      "id": 11185,
+      "name": "Regate (LV)",
+    },
+    {
+      "id": 11186,
+      "name": "TommyyLyy",
+    },
+    {
+      "id": 11187,
+      "name": "Pro Marine Trade",
+    },
+    {
+      "id": 11188,
+      "name": "Татьяна Каверина (Armastus)",
+    },
+    {
+      "id": 11189,
+      "name": "NORA LII SOPRADE SELTS",
+    },
+    {
+      "id": 11190,
+      "name": "Andres",
+    },
+    {
+      "id": 11191,
+      "name": "Nautix",
+    },
+    {
+      "id": 11192,
+      "name": "Torivallavalitsus",
+    },
+    {
+      "id": 11193,
+      "name": "Ninne",
+    },
+    {
+      "id": 11194,
+      "name": "Urmas Varris",
+    },
+    {
+      "id": 11195,
+      "name": "WindWalker",
+    },
+    {
+      "id": 11196,
+      "name": "Via Grupp OU (Командор)",
+    },
+    {
+      "id": 11201,
+      "name": "Tõnis",
+    },
+    {
+      "id": 11202,
+      "name": "Jaanus",
+    },
+    {
+      "id": 11203,
+      "name": "Meister Arle OU",
+    },
+    {
+      "id": 11204,
+      "name": "Prime Marine Service OU",
+    },
+    {
+      "id": 11205,
+      "name": "Viking",
+    },
+    {
+      "id": 11206,
+      "name": "Saku",
+    },
+    {
+      "id": 11207,
+      "name": "SineneLind",
+    },
+    {
+      "id": 11208,
+      "name": "Alex Tido",
+    },
+    {
+      "id": 11209,
+      "name": "AZZURRA",
+    },
+    {
+      "id": 11210,
+      "name": "квас на пиво",
+    },
+    {
+      "id": 11211,
+      "name": "MIA (Tallin)",
+    },
+    {
+      "id": 11212,
+      "name": "MINNI",
+    },
+    {
+      "id": 11213,
+      "name": "Jonпgert OU",
+    },
+    {
+      "id": 11214,
+      "name": "MIA Pärnu",
+    },
+    {
+      "id": 11217,
+      "name": "Tauno Teluk",
+    },
+    {
+      "id": 11219,
+      "name": "Капитан",
+    },
+    {
+      "id": 11220,
+      "name": "Johannes  Atlandi Võlg",
+    },
+    {
+      "id": 11221,
+      "name": "Nimi",
+    },
+    {
+      "id": 11222,
+      "name": "Viahooldus ОÜ",
+    },
+    {
+      "id": 11223,
+      "name": "Kaupmees",
+    },
+    {
+      "id": 11224,
+      "name": "Reino",
+    },
+    {
+      "id": 11225,
+      "name": "Rubit OU",
+    },
+    {
+      "id": 11226,
+      "name": "Aleksey  Rusetsky",
+    },
+    {
+      "id": 11227,
+      "name": "Corinthian Events OÜ",
+    },
+    {
+      "id": 11228,
+      "name": "Ronstan DK",
+    },
+    {
+      "id": 11229,
+      "name": "Narva-Joesuu PurjeSpoordiKool",
+    },
+    {
+      "id": 11230,
+      "name": "Saaremaa Meri Spordiselts",
+    },
+    {
+      "id": 11231,
+      "name": "Tallux Orto",
+    },
+    {
+      "id": 11232,
+      "name": "Uku Kuusk",
+    },
+    {
+      "id": 11234,
+      "name": "Bainbridge Inc (UK)",
+    },
+    {
+      "id": 11235,
+      "name": "BetaMarine (UK)",
+    },
+    {
+      "id": 11236,
+      "name": "Change Consulting OÜ",
+    },
+    {
+      "id": 11237,
+      "name": "Rait Maru",
+    },
+    {
+      "id": 11239,
+      "name": "Žaklar OU",
+    },
+    {
+      "id": 11240,
+      "name": "Comar Systems Limited",
+    },
+    {
+      "id": 11241,
+      "name": "Kaidor",
+    },
+    {
+      "id": 11242,
+      "name": "MADEN",
+    },
+    {
+      "id": 11243,
+      "name": "Ropebox Eesti OÜ",
+    },
+    {
+      "id": 11244,
+      "name": "Muri",
+    },
+    {
+      "id": 11245,
+      "name": "Carrestoration OU",
+    },
+    {
+      "id": 11246,
+      "name": "Siren Sailing OU",
+    },
+    {
+      "id": 11247,
+      "name": "Episood OU",
+    },
+    {
+      "id": 11248,
+      "name": "Akster Grupp OU",
+    },
+    {
+      "id": 11249,
+      "name": "Alter",
+    },
+    {
+      "id": 11250,
+      "name": "Ronstan AUS",
+    },
+    {
+      "id": 11251,
+      "name": "Innon Finance OU",
+    },
+    {
+      "id": 11252,
+      "name": "Lettore OÜ",
+    },
+    {
+      "id": 11253,
+      "name": "Navideep Services OÜ",
+    },
+    {
+      "id": 11254,
+      "name": "Athaman (Polska)",
+    },
+    {
+      "id": 11255,
+      "name": "Lõbusõit OÜ",
+    },
+    {
+      "id": 11256,
+      "name": "Aleksei Mikhalev",
+    },
+    {
+      "id": 11257,
+      "name": "Ropebox OÜ",
+    },
+    {
+      "id": 11258,
+      "name": "Kaubakeskus OÜ",
+    },
+    {
+      "id": 11259,
+      "name": "Rein Ottoson OÜ",
+    },
+    {
+      "id": 11260,
+      "name": "Robert",
+    },
+    {
+      "id": 11261,
+      "name": "Merema OÜ",
+    },
+    {
+      "id": 11262,
+      "name": "Alexander Rusetsky",
+    },
+    {
+      "id": 11263,
+      "name": "Natalja Rusetskaya",
+    },
+    {
+      "id": 11264,
+      "name": "Jahtklubi Dago",
+    },
+    {
+      "id": 11265,
+      "name": "Elev Luik",
+    },
+    {
+      "id": 11266,
+      "name": "_ЗХ2023",
+    },
+    {
+      "id": 11267,
+      "name": "Vsevolod pyramidaprint",
+    },
+    {
+      "id": 11268,
+      "name": "Emerald",
+    },
+    {
+      "id": 11270,
+      "name": "Strand Sailing Management",
+    },
+    {
+      "id": 11271,
+      "name": "Tuule",
+    },
+    {
+      "id": 11272,
+      "name": "Meelis Kojamess (Баба Яга)",
+    },
+    {
+      "id": 11273,
+      "name": "Andrea FE64",
+    },
+    {
+      "id": 11274,
+      "name": "Reilut OÜ",
+    },
+    {
+      "id": 11275,
+      "name": "Pärnu cruises",
+    },
+    {
+      "id": 11280,
+      "name": "Madis Parts",
+    },
+    {
+      "id": 11281,
+      "name": "Tera ehitus OU",
+    },
+    {
+      "id": 11282,
+      "name": "Korkvender OU",
+    },
+    {
+      "id": 11291,
+      "name": "STRAND PROJEKT OÜ",
+    },
+    {
+      "id": 11292,
+      "name": "RTR Tehnika",
+    },
+    {
+      "id": 11293,
+      "name": "Eprodukt  OÜ",
+    },
+    {
+      "id": 11294,
+      "name": "Madis Parts",
+    },
+    {
+      "id": 11295,
+      "name": "SeaKayaking",
+    },
+    {
+      "id": 11296,
+      "name": "8 Motor Oy",
+    },
+    {
+      "id": 11297,
+      "name": "SKELTMER OÜ",
+    },
+    {
+      "id": 11298,
+      "name": "Jäälind",
+    },
+    {
+      "id": 11299,
+      "name": "MattChem (France)",
+    },
+    {
+      "id": 11300,
+      "name": "Car Restoration OU",
+    },
+    {
+      "id": 11301,
+      "name": "Valgeranna Seikluspark OÜ",
+    },
+    {
+      "id": 11302,
+      "name": "Kaif OÜ",
+    },
+    {
+      "id": 11303,
+      "name": "Julechka",
+    },
+    {
+      "id": 11304,
+      "name": "Longboat",
+    },
+    {
+      "id": 11305,
+      "name": "SAILING MASSIVE  OÜ",
+    },
+    {
+      "id": 11306,
+      "name": "AB Technology",
+    },
+    {
+      "id": 11307,
+      "name": "Norman Saarso",
+    },
+    {
+      "id": 11308,
+      "name": "Tuisu OÜ",
+    },
+    {
+      "id": 11309,
+      "name": "Fairaway",
+    },
+    {
+      "id": 11311,
+      "name": "Alibi OÜ",
+    },
+    {
+      "id": 11312,
+      "name": "Dirham motorpaad",
+    },
+    {
+      "id": 11313,
+      "name": "Niined group",
+    },
+    {
+      "id": 11314,
+      "name": "Magna Fide",
+    },
+    {
+      "id": 11315,
+      "name": "Корячкин",
+    },
+    {
+      "id": 11317,
+      "name": "Konstrado",
+    },
+    {
+      "id": 11318,
+      "name": "Vektom OÜ",
+    },
+    {
+      "id": 11319,
+      "name": "Kalev Jahtklubi",
+    },
+    {
+      "id": 11320,
+      "name": "Marta Vintage OÜ",
+    },
+  ],
+  "orders": [
+    {
+      "allSum": -18.98,
+      "clientName": "Ronstan AUS",
+      "date": "2022-07-27T19:19:00.000Z",
+      "id": 205262,
+      "isPaid": false,
+      "paidSum": null,
+      "payType": null,
+      "positionCount": 1,
+      "productsCount": 2,
+      "productsSum": -18.98,
+      "status": "заказ поставщику",
+    },
+    {
+      "allSum": -3875.2653,
+      "clientName": "Ronstan AUS",
+      "date": "2022-07-28T18:09:00.000Z",
+      "id": 205259,
+      "isPaid": false,
+      "paidSum": null,
+      "payType": null,
+      "positionCount": 48,
+      "productsCount": 681,
+      "productsSum": -3875.2653,
+      "status": "заказ поставщику",
+    },
+    {
+      "allSum": -493.3967,
+      "clientName": "Ronstan AUS",
+      "date": "2022-07-28T17:34:00.000Z",
+      "id": 205255,
+      "isPaid": false,
+      "paidSum": null,
+      "payType": null,
+      "positionCount": 20,
+      "productsCount": 87,
+      "productsSum": -493.3967,
+      "status": "заказ поставщику",
+    },
+    {
+      "allSum": -931.972,
+      "clientName": "Ronstan AUS",
+      "date": "2022-07-27T14:36:00.000Z",
+      "id": 205025,
+      "isPaid": false,
+      "paidSum": null,
+      "payType": null,
+      "positionCount": 9,
+      "productsCount": 126,
+      "productsSum": -931.972,
+      "status": "заказ поставщику",
+    },
+    {
+      "allSum": -437.0588,
+      "clientName": "Ropebox Eesti OÜ",
+      "date": "2022-07-20T10:47:00.000Z",
+      "id": 204983,
+      "isPaid": false,
+      "paidSum": 437.0588,
+      "payType": "Б/н",
+      "positionCount": 14,
+      "productsCount": 22,
+      "productsSum": -437.0588,
+      "status": "заказ поставщику",
+    },
+    {
+      "allSum": -567.1251,
+      "clientName": "Ronstan AUS",
+      "date": "2022-07-01T12:50:00.000Z",
+      "id": 204827,
+      "isPaid": false,
+      "paidSum": null,
+      "payType": null,
+      "positionCount": 9,
+      "productsCount": 29,
+      "productsSum": -567.1251,
+      "status": "заказ поставщику",
+    },
+    {
+      "allSum": -3397.7156,
+      "clientName": "Ronstan AUS",
+      "date": "2022-07-01T12:42:00.000Z",
+      "id": 204825,
+      "isPaid": false,
+      "paidSum": null,
+      "payType": null,
+      "positionCount": 28,
+      "productsCount": 359,
+      "productsSum": -3397.7156,
+      "status": "заказ поставщику",
+    },
+  ],
+  "pagesCount": 1,
+  "rowsCount": 7,
+  "totalAllSum": -9721.5135,
+  "totalPaidSum": 437.0588,
+  "totalProductSum": -9721.5135,
+}
+`;
+
+exports[`Status Filter Get Products status [3] 1`] = `
+{
+  "pagesCount": 7,
+  "products": [
+    {
+      "avgPrice": 55.4967,
+      "id": 58201,
+      "maxPrice": 55.4967,
+      "minPrice": 55.4967,
+      "name": "Закрутка геннакера серия 60. верхний шарнир",
+      "ordersCount": 1,
+      "totalCount": 2,
+      "totalSum": -110.9934,
+    },
+    {
+      "avgPrice": 90.3865,
+      "id": 58200,
+      "maxPrice": 90.3865,
+      "minPrice": 90.3865,
+      "name": "Закрутка для геннакера серия 60. нижняя часть",
+      "ordersCount": 1,
+      "totalCount": 2,
+      "totalSum": -180.773,
+    },
+    {
+      "avgPrice": 24.8637,
+      "id": 58160,
+      "maxPrice": 24.8637,
+      "minPrice": 24.8637,
+      "name": "Rope bag Grey PVC|Mesh wide 400x250x200mm",
+      "ordersCount": 2,
+      "totalCount": 12,
+      "totalSum": -298.3644,
+    },
+    {
+      "avgPrice": 4.041,
+      "id": 55937,
+      "maxPrice": 4.041,
+      "minPrice": 4.041,
+      "name": "Блок беcшкивный синий под трос 3-10мм",
+      "ordersCount": 2,
+      "totalCount": 4,
+      "totalSum": -16.164,
+    },
+    {
+      "avgPrice": 24.7967,
+      "id": 55550,
+      "maxPrice": 24.7967,
+      "minPrice": 24.7967,
+      "name": "Перчатки черные, длинные пальцы XL",
+      "ordersCount": 1,
+      "totalCount": 4,
+      "totalSum": -99.1868,
+    },
+    {
+      "avgPrice": 23.1066,
+      "id": 55549,
+      "maxPrice": 25.7226,
+      "minPrice": 20.9536,
+      "name": "Перчатки черные, длинные пальцы S",
+      "ordersCount": 4,
+      "totalCount": 13,
+      "totalSum": -292.5382,
+    },
+    {
+      "avgPrice": 23.1066,
+      "id": 55548,
+      "maxPrice": 25.7226,
+      "minPrice": 20.9536,
+      "name": "Перчатки черные, длинные пальцы M",
+      "ordersCount": 4,
+      "totalCount": 13,
+      "totalSum": -292.5382,
+    },
+    {
+      "avgPrice": 24.7967,
+      "id": 55337,
+      "maxPrice": 24.7967,
+      "minPrice": 24.7967,
+      "name": "Перчатки черные, L",
+      "ordersCount": 1,
+      "totalCount": 4,
+      "totalSum": -99.1868,
+    },
+    {
+      "avgPrice": 10.123,
+      "id": 51688,
+      "maxPrice": 10.123,
+      "minPrice": 10.123,
+      "name": "Блок 15мм двухшкивный",
+      "ordersCount": 1,
+      "totalCount": 4,
+      "totalSum": -40.492,
+    },
+    {
+      "avgPrice": 6.6117,
+      "id": 51682,
+      "maxPrice": 6.6117,
+      "minPrice": 6.6117,
+      "name": "Блок 15мм одношкивный с обушком",
+      "ordersCount": 1,
+      "totalCount": 5,
+      "totalSum": -33.0585,
+    },
+  ],
+  "rowsCount": 67,
+}
+`;
+
+exports[`Status Filter Get Sales status [0] 1`] = `
+{
+  "clients": [
+    {
+      "id": null,
+      "name": null,
+    },
+    {
+      "id": 245,
+      "name": "Щербаков Антон Васильевич",
+    },
+    {
+      "id": 627,
+      "name": "Sailtech Oy (Финляндия)",
+    },
+    {
+      "id": 676,
+      "name": "Maritim-Finland",
+    },
+    {
+      "id": 940,
+      "name": "web",
+    },
+    {
+      "id": 1108,
+      "name": "TREM",
+    },
+    {
+      "id": 1702,
+      "name": "MarineTech (Germany)",
+    },
+    {
+      "id": 2766,
+      "name": "Optiparts",
+    },
+    {
+      "id": 2773,
+      "name": "Windex (Sweden)",
+    },
+    {
+      "id": 9901,
+      "name": "Anton Scherbakov",
+    },
+    {
+      "id": 11182,
+      "name": "_jamuuk",
+    },
+    {
+      "id": 11183,
+      "name": "PJK",
+    },
+    {
+      "id": 11185,
+      "name": "Regate (LV)",
+    },
+    {
+      "id": 11186,
+      "name": "TommyyLyy",
+    },
+    {
+      "id": 11187,
+      "name": "Pro Marine Trade",
+    },
+    {
+      "id": 11188,
+      "name": "Татьяна Каверина (Armastus)",
+    },
+    {
+      "id": 11189,
+      "name": "NORA LII SOPRADE SELTS",
+    },
+    {
+      "id": 11190,
+      "name": "Andres",
+    },
+    {
+      "id": 11191,
+      "name": "Nautix",
+    },
+    {
+      "id": 11192,
+      "name": "Torivallavalitsus",
+    },
+    {
+      "id": 11193,
+      "name": "Ninne",
+    },
+    {
+      "id": 11194,
+      "name": "Urmas Varris",
+    },
+    {
+      "id": 11195,
+      "name": "WindWalker",
+    },
+    {
+      "id": 11196,
+      "name": "Via Grupp OU (Командор)",
+    },
+    {
+      "id": 11201,
+      "name": "Tõnis",
+    },
+    {
+      "id": 11202,
+      "name": "Jaanus",
+    },
+    {
+      "id": 11203,
+      "name": "Meister Arle OU",
+    },
+    {
+      "id": 11204,
+      "name": "Prime Marine Service OU",
+    },
+    {
+      "id": 11205,
+      "name": "Viking",
+    },
+    {
+      "id": 11206,
+      "name": "Saku",
+    },
+    {
+      "id": 11207,
+      "name": "SineneLind",
+    },
+    {
+      "id": 11208,
+      "name": "Alex Tido",
+    },
+    {
+      "id": 11209,
+      "name": "AZZURRA",
+    },
+    {
+      "id": 11210,
+      "name": "квас на пиво",
+    },
+    {
+      "id": 11211,
+      "name": "MIA (Tallin)",
+    },
+    {
+      "id": 11212,
+      "name": "MINNI",
+    },
+    {
+      "id": 11213,
+      "name": "Jonпgert OU",
+    },
+    {
+      "id": 11214,
+      "name": "MIA Pärnu",
+    },
+    {
+      "id": 11217,
+      "name": "Tauno Teluk",
+    },
+    {
+      "id": 11219,
+      "name": "Капитан",
+    },
+    {
+      "id": 11220,
+      "name": "Johannes  Atlandi Võlg",
+    },
+    {
+      "id": 11221,
+      "name": "Nimi",
+    },
+    {
+      "id": 11222,
+      "name": "Viahooldus ОÜ",
+    },
+    {
+      "id": 11223,
+      "name": "Kaupmees",
+    },
+    {
+      "id": 11224,
+      "name": "Reino",
+    },
+    {
+      "id": 11225,
+      "name": "Rubit OU",
+    },
+    {
+      "id": 11226,
+      "name": "Aleksey  Rusetsky",
+    },
+    {
+      "id": 11227,
+      "name": "Corinthian Events OÜ",
+    },
+    {
+      "id": 11228,
+      "name": "Ronstan DK",
+    },
+    {
+      "id": 11229,
+      "name": "Narva-Joesuu PurjeSpoordiKool",
+    },
+    {
+      "id": 11230,
+      "name": "Saaremaa Meri Spordiselts",
+    },
+    {
+      "id": 11231,
+      "name": "Tallux Orto",
+    },
+    {
+      "id": 11232,
+      "name": "Uku Kuusk",
+    },
+    {
+      "id": 11234,
+      "name": "Bainbridge Inc (UK)",
+    },
+    {
+      "id": 11235,
+      "name": "BetaMarine (UK)",
+    },
+    {
+      "id": 11236,
+      "name": "Change Consulting OÜ",
+    },
+    {
+      "id": 11237,
+      "name": "Rait Maru",
+    },
+    {
+      "id": 11239,
+      "name": "Žaklar OU",
+    },
+    {
+      "id": 11240,
+      "name": "Comar Systems Limited",
+    },
+    {
+      "id": 11241,
+      "name": "Kaidor",
+    },
+    {
+      "id": 11242,
+      "name": "MADEN",
+    },
+    {
+      "id": 11243,
+      "name": "Ropebox Eesti OÜ",
+    },
+    {
+      "id": 11244,
+      "name": "Muri",
+    },
+    {
+      "id": 11245,
+      "name": "Carrestoration OU",
+    },
+    {
+      "id": 11246,
+      "name": "Siren Sailing OU",
+    },
+    {
+      "id": 11247,
+      "name": "Episood OU",
+    },
+    {
+      "id": 11248,
+      "name": "Akster Grupp OU",
+    },
+    {
+      "id": 11249,
+      "name": "Alter",
+    },
+    {
+      "id": 11250,
+      "name": "Ronstan AUS",
+    },
+    {
+      "id": 11251,
+      "name": "Innon Finance OU",
+    },
+    {
+      "id": 11252,
+      "name": "Lettore OÜ",
+    },
+    {
+      "id": 11253,
+      "name": "Navideep Services OÜ",
+    },
+    {
+      "id": 11254,
+      "name": "Athaman (Polska)",
+    },
+    {
+      "id": 11255,
+      "name": "Lõbusõit OÜ",
+    },
+    {
+      "id": 11256,
+      "name": "Aleksei Mikhalev",
+    },
+    {
+      "id": 11257,
+      "name": "Ropebox OÜ",
+    },
+    {
+      "id": 11258,
+      "name": "Kaubakeskus OÜ",
+    },
+    {
+      "id": 11259,
+      "name": "Rein Ottoson OÜ",
+    },
+    {
+      "id": 11260,
+      "name": "Robert",
+    },
+    {
+      "id": 11261,
+      "name": "Merema OÜ",
+    },
+    {
+      "id": 11262,
+      "name": "Alexander Rusetsky",
+    },
+    {
+      "id": 11263,
+      "name": "Natalja Rusetskaya",
+    },
+    {
+      "id": 11264,
+      "name": "Jahtklubi Dago",
+    },
+    {
+      "id": 11265,
+      "name": "Elev Luik",
+    },
+    {
+      "id": 11266,
+      "name": "_ЗХ2023",
+    },
+    {
+      "id": 11267,
+      "name": "Vsevolod pyramidaprint",
+    },
+    {
+      "id": 11268,
+      "name": "Emerald",
+    },
+    {
+      "id": 11270,
+      "name": "Strand Sailing Management",
+    },
+    {
+      "id": 11271,
+      "name": "Tuule",
+    },
+    {
+      "id": 11272,
+      "name": "Meelis Kojamess (Баба Яга)",
+    },
+    {
+      "id": 11273,
+      "name": "Andrea FE64",
+    },
+    {
+      "id": 11274,
+      "name": "Reilut OÜ",
+    },
+    {
+      "id": 11275,
+      "name": "Pärnu cruises",
+    },
+    {
+      "id": 11280,
+      "name": "Madis Parts",
+    },
+    {
+      "id": 11281,
+      "name": "Tera ehitus OU",
+    },
+    {
+      "id": 11282,
+      "name": "Korkvender OU",
+    },
+    {
+      "id": 11291,
+      "name": "STRAND PROJEKT OÜ",
+    },
+    {
+      "id": 11292,
+      "name": "RTR Tehnika",
+    },
+    {
+      "id": 11293,
+      "name": "Eprodukt  OÜ",
+    },
+    {
+      "id": 11294,
+      "name": "Madis Parts",
+    },
+    {
+      "id": 11295,
+      "name": "SeaKayaking",
+    },
+    {
+      "id": 11296,
+      "name": "8 Motor Oy",
+    },
+    {
+      "id": 11297,
+      "name": "SKELTMER OÜ",
+    },
+    {
+      "id": 11298,
+      "name": "Jäälind",
+    },
+    {
+      "id": 11299,
+      "name": "MattChem (France)",
+    },
+    {
+      "id": 11300,
+      "name": "Car Restoration OU",
+    },
+    {
+      "id": 11301,
+      "name": "Valgeranna Seikluspark OÜ",
+    },
+    {
+      "id": 11302,
+      "name": "Kaif OÜ",
+    },
+    {
+      "id": 11303,
+      "name": "Julechka",
+    },
+    {
+      "id": 11304,
+      "name": "Longboat",
+    },
+    {
+      "id": 11305,
+      "name": "SAILING MASSIVE  OÜ",
+    },
+    {
+      "id": 11306,
+      "name": "AB Technology",
+    },
+    {
+      "id": 11307,
+      "name": "Norman Saarso",
+    },
+    {
+      "id": 11308,
+      "name": "Tuisu OÜ",
+    },
+    {
+      "id": 11309,
+      "name": "Fairaway",
+    },
+    {
+      "id": 11311,
+      "name": "Alibi OÜ",
+    },
+    {
+      "id": 11312,
+      "name": "Dirham motorpaad",
+    },
+    {
+      "id": 11313,
+      "name": "Niined group",
+    },
+    {
+      "id": 11314,
+      "name": "Magna Fide",
+    },
+    {
+      "id": 11315,
+      "name": "Корячкин",
+    },
+    {
+      "id": 11317,
+      "name": "Konstrado",
+    },
+    {
+      "id": 11318,
+      "name": "Vektom OÜ",
+    },
+    {
+      "id": 11319,
+      "name": "Kalev Jahtklubi",
+    },
+    {
+      "id": 11320,
+      "name": "Marta Vintage OÜ",
+    },
+  ],
+  "orders": [
+    {
+      "allSum": 28.8333,
+      "clientName": "web",
+      "date": "2022-07-29T12:24:00.000Z",
+      "id": 205044,
+      "isPaid": false,
+      "paidSum": null,
+      "payType": null,
+      "positionCount": 1,
+      "productsCount": -1,
+      "productsSum": 28.8333,
+      "status": "заказ покупателя",
+    },
+    {
+      "allSum": 53,
+      "clientName": "web",
+      "date": "2022-07-13T17:46:00.000Z",
+      "id": 204905,
+      "isPaid": false,
+      "paidSum": null,
+      "payType": null,
+      "positionCount": 3,
+      "productsCount": -11,
+      "productsSum": 53,
+      "status": "заказ покупателя",
+    },
+    {
+      "allSum": 2053,
+      "clientName": "Jaanus",
+      "date": "2022-07-13T14:30:00.000Z",
+      "id": 204902,
+      "isPaid": false,
+      "paidSum": null,
+      "payType": null,
+      "positionCount": 13,
+      "productsCount": -144,
+      "productsSum": 2053,
+      "status": "заказ покупателя",
+    },
+    {
+      "allSum": 2000,
+      "clientName": "Ropebox Eesti OÜ",
+      "date": "2022-07-05T14:27:00.000Z",
+      "id": 204849,
+      "isPaid": false,
+      "paidSum": null,
+      "payType": null,
+      "positionCount": 2,
+      "productsCount": -21,
+      "productsSum": 2000,
+      "status": "заказ покупателя",
+    },
+    {
+      "allSum": 156.32,
+      "clientName": "web",
+      "date": "2022-07-04T17:27:00.000Z",
+      "id": 204848,
+      "isPaid": false,
+      "paidSum": null,
+      "payType": null,
+      "positionCount": 4,
+      "productsCount": -27.52,
+      "productsSum": 156.32,
+      "status": "заказ покупателя",
+    },
+    {
+      "allSum": 2000,
+      "clientName": "Jaanus",
+      "date": "2022-07-03T15:43:00.000Z",
+      "id": 204846,
+      "isPaid": false,
+      "paidSum": null,
+      "payType": null,
+      "positionCount": 2,
+      "productsCount": -21,
+      "productsSum": 2000,
+      "status": "заказ покупателя",
+    },
+  ],
+  "pagesCount": 1,
+  "rowsCount": 6,
+  "totalAllSum": 6291.1533,
+  "totalPaidSum": null,
+  "totalProductSum": 6291.1533,
+}
+`;
+
+exports[`Status Filter Get Products status [0] 1`] = `
+{
+  "pagesCount": 0,
+  "products": [],
+  "rowsCount": 0,
+}
+`;
+
+exports[`Status Filter Get Sales status [2] 1`] = `
+{
+  "clients": [
+    {
+      "id": null,
+      "name": null,
+    },
+    {
+      "id": 245,
+      "name": "Щербаков Антон Васильевич",
+    },
+    {
+      "id": 627,
+      "name": "Sailtech Oy (Финляндия)",
+    },
+    {
+      "id": 676,
+      "name": "Maritim-Finland",
+    },
+    {
+      "id": 940,
+      "name": "web",
+    },
+    {
+      "id": 1108,
+      "name": "TREM",
+    },
+    {
+      "id": 1702,
+      "name": "MarineTech (Germany)",
+    },
+    {
+      "id": 2766,
+      "name": "Optiparts",
+    },
+    {
+      "id": 2773,
+      "name": "Windex (Sweden)",
+    },
+    {
+      "id": 9901,
+      "name": "Anton Scherbakov",
+    },
+    {
+      "id": 11182,
+      "name": "_jamuuk",
+    },
+    {
+      "id": 11183,
+      "name": "PJK",
+    },
+    {
+      "id": 11185,
+      "name": "Regate (LV)",
+    },
+    {
+      "id": 11186,
+      "name": "TommyyLyy",
+    },
+    {
+      "id": 11187,
+      "name": "Pro Marine Trade",
+    },
+    {
+      "id": 11188,
+      "name": "Татьяна Каверина (Armastus)",
+    },
+    {
+      "id": 11189,
+      "name": "NORA LII SOPRADE SELTS",
+    },
+    {
+      "id": 11190,
+      "name": "Andres",
+    },
+    {
+      "id": 11191,
+      "name": "Nautix",
+    },
+    {
+      "id": 11192,
+      "name": "Torivallavalitsus",
+    },
+    {
+      "id": 11193,
+      "name": "Ninne",
+    },
+    {
+      "id": 11194,
+      "name": "Urmas Varris",
+    },
+    {
+      "id": 11195,
+      "name": "WindWalker",
+    },
+    {
+      "id": 11196,
+      "name": "Via Grupp OU (Командор)",
+    },
+    {
+      "id": 11201,
+      "name": "Tõnis",
+    },
+    {
+      "id": 11202,
+      "name": "Jaanus",
+    },
+    {
+      "id": 11203,
+      "name": "Meister Arle OU",
+    },
+    {
+      "id": 11204,
+      "name": "Prime Marine Service OU",
+    },
+    {
+      "id": 11205,
+      "name": "Viking",
+    },
+    {
+      "id": 11206,
+      "name": "Saku",
+    },
+    {
+      "id": 11207,
+      "name": "SineneLind",
+    },
+    {
+      "id": 11208,
+      "name": "Alex Tido",
+    },
+    {
+      "id": 11209,
+      "name": "AZZURRA",
+    },
+    {
+      "id": 11210,
+      "name": "квас на пиво",
+    },
+    {
+      "id": 11211,
+      "name": "MIA (Tallin)",
+    },
+    {
+      "id": 11212,
+      "name": "MINNI",
+    },
+    {
+      "id": 11213,
+      "name": "Jonпgert OU",
+    },
+    {
+      "id": 11214,
+      "name": "MIA Pärnu",
+    },
+    {
+      "id": 11217,
+      "name": "Tauno Teluk",
+    },
+    {
+      "id": 11219,
+      "name": "Капитан",
+    },
+    {
+      "id": 11220,
+      "name": "Johannes  Atlandi Võlg",
+    },
+    {
+      "id": 11221,
+      "name": "Nimi",
+    },
+    {
+      "id": 11222,
+      "name": "Viahooldus ОÜ",
+    },
+    {
+      "id": 11223,
+      "name": "Kaupmees",
+    },
+    {
+      "id": 11224,
+      "name": "Reino",
+    },
+    {
+      "id": 11225,
+      "name": "Rubit OU",
+    },
+    {
+      "id": 11226,
+      "name": "Aleksey  Rusetsky",
+    },
+    {
+      "id": 11227,
+      "name": "Corinthian Events OÜ",
+    },
+    {
+      "id": 11228,
+      "name": "Ronstan DK",
+    },
+    {
+      "id": 11229,
+      "name": "Narva-Joesuu PurjeSpoordiKool",
+    },
+    {
+      "id": 11230,
+      "name": "Saaremaa Meri Spordiselts",
+    },
+    {
+      "id": 11231,
+      "name": "Tallux Orto",
+    },
+    {
+      "id": 11232,
+      "name": "Uku Kuusk",
+    },
+    {
+      "id": 11234,
+      "name": "Bainbridge Inc (UK)",
+    },
+    {
+      "id": 11235,
+      "name": "BetaMarine (UK)",
+    },
+    {
+      "id": 11236,
+      "name": "Change Consulting OÜ",
+    },
+    {
+      "id": 11237,
+      "name": "Rait Maru",
+    },
+    {
+      "id": 11239,
+      "name": "Žaklar OU",
+    },
+    {
+      "id": 11240,
+      "name": "Comar Systems Limited",
+    },
+    {
+      "id": 11241,
+      "name": "Kaidor",
+    },
+    {
+      "id": 11242,
+      "name": "MADEN",
+    },
+    {
+      "id": 11243,
+      "name": "Ropebox Eesti OÜ",
+    },
+    {
+      "id": 11244,
+      "name": "Muri",
+    },
+    {
+      "id": 11245,
+      "name": "Carrestoration OU",
+    },
+    {
+      "id": 11246,
+      "name": "Siren Sailing OU",
+    },
+    {
+      "id": 11247,
+      "name": "Episood OU",
+    },
+    {
+      "id": 11248,
+      "name": "Akster Grupp OU",
+    },
+    {
+      "id": 11249,
+      "name": "Alter",
+    },
+    {
+      "id": 11250,
+      "name": "Ronstan AUS",
+    },
+    {
+      "id": 11251,
+      "name": "Innon Finance OU",
+    },
+    {
+      "id": 11252,
+      "name": "Lettore OÜ",
+    },
+    {
+      "id": 11253,
+      "name": "Navideep Services OÜ",
+    },
+    {
+      "id": 11254,
+      "name": "Athaman (Polska)",
+    },
+    {
+      "id": 11255,
+      "name": "Lõbusõit OÜ",
+    },
+    {
+      "id": 11256,
+      "name": "Aleksei Mikhalev",
+    },
+    {
+      "id": 11257,
+      "name": "Ropebox OÜ",
+    },
+    {
+      "id": 11258,
+      "name": "Kaubakeskus OÜ",
+    },
+    {
+      "id": 11259,
+      "name": "Rein Ottoson OÜ",
+    },
+    {
+      "id": 11260,
+      "name": "Robert",
+    },
+    {
+      "id": 11261,
+      "name": "Merema OÜ",
+    },
+    {
+      "id": 11262,
+      "name": "Alexander Rusetsky",
+    },
+    {
+      "id": 11263,
+      "name": "Natalja Rusetskaya",
+    },
+    {
+      "id": 11264,
+      "name": "Jahtklubi Dago",
+    },
+    {
+      "id": 11265,
+      "name": "Elev Luik",
+    },
+    {
+      "id": 11266,
+      "name": "_ЗХ2023",
+    },
+    {
+      "id": 11267,
+      "name": "Vsevolod pyramidaprint",
+    },
+    {
+      "id": 11268,
+      "name": "Emerald",
+    },
+    {
+      "id": 11270,
+      "name": "Strand Sailing Management",
+    },
+    {
+      "id": 11271,
+      "name": "Tuule",
+    },
+    {
+      "id": 11272,
+      "name": "Meelis Kojamess (Баба Яга)",
+    },
+    {
+      "id": 11273,
+      "name": "Andrea FE64",
+    },
+    {
+      "id": 11274,
+      "name": "Reilut OÜ",
+    },
+    {
+      "id": 11275,
+      "name": "Pärnu cruises",
+    },
+    {
+      "id": 11280,
+      "name": "Madis Parts",
+    },
+    {
+      "id": 11281,
+      "name": "Tera ehitus OU",
+    },
+    {
+      "id": 11282,
+      "name": "Korkvender OU",
+    },
+    {
+      "id": 11291,
+      "name": "STRAND PROJEKT OÜ",
+    },
+    {
+      "id": 11292,
+      "name": "RTR Tehnika",
+    },
+    {
+      "id": 11293,
+      "name": "Eprodukt  OÜ",
+    },
+    {
+      "id": 11294,
+      "name": "Madis Parts",
+    },
+    {
+      "id": 11295,
+      "name": "SeaKayaking",
+    },
+    {
+      "id": 11296,
+      "name": "8 Motor Oy",
+    },
+    {
+      "id": 11297,
+      "name": "SKELTMER OÜ",
+    },
+    {
+      "id": 11298,
+      "name": "Jäälind",
+    },
+    {
+      "id": 11299,
+      "name": "MattChem (France)",
+    },
+    {
+      "id": 11300,
+      "name": "Car Restoration OU",
+    },
+    {
+      "id": 11301,
+      "name": "Valgeranna Seikluspark OÜ",
+    },
+    {
+      "id": 11302,
+      "name": "Kaif OÜ",
+    },
+    {
+      "id": 11303,
+      "name": "Julechka",
+    },
+    {
+      "id": 11304,
+      "name": "Longboat",
+    },
+    {
+      "id": 11305,
+      "name": "SAILING MASSIVE  OÜ",
+    },
+    {
+      "id": 11306,
+      "name": "AB Technology",
+    },
+    {
+      "id": 11307,
+      "name": "Norman Saarso",
+    },
+    {
+      "id": 11308,
+      "name": "Tuisu OÜ",
+    },
+    {
+      "id": 11309,
+      "name": "Fairaway",
+    },
+    {
+      "id": 11311,
+      "name": "Alibi OÜ",
+    },
+    {
+      "id": 11312,
+      "name": "Dirham motorpaad",
+    },
+    {
+      "id": 11313,
+      "name": "Niined group",
+    },
+    {
+      "id": 11314,
+      "name": "Magna Fide",
+    },
+    {
+      "id": 11315,
+      "name": "Корячкин",
+    },
+    {
+      "id": 11317,
+      "name": "Konstrado",
+    },
+    {
+      "id": 11318,
+      "name": "Vektom OÜ",
+    },
+    {
+      "id": 11319,
+      "name": "Kalev Jahtklubi",
+    },
+    {
+      "id": 11320,
+      "name": "Marta Vintage OÜ",
+    },
+  ],
+  "orders": [
+    {
+      "allSum": -50,
+      "clientName": "_jamuuk",
+      "date": "2022-06-30T12:25:00.000Z",
+      "id": 204817,
+      "isPaid": false,
+      "paidSum": null,
+      "payType": null,
+      "positionCount": 1,
+      "productsCount": 1,
+      "productsSum": -50,
+      "status": "прием на реализацию",
+    },
+    {
+      "allSum": -25,
+      "clientName": "Tõnis",
+      "date": "2022-06-11T18:28:00.000Z",
+      "id": 204741,
+      "isPaid": false,
+      "paidSum": null,
+      "payType": null,
+      "positionCount": 1,
+      "productsCount": 1,
+      "productsSum": -25,
+      "status": "прием на реализацию",
+    },
+    {
+      "allSum": -665.8,
+      "clientName": "Rait Maru",
+      "date": "2022-06-04T16:48:00.000Z",
+      "id": 204694,
+      "isPaid": false,
+      "paidSum": null,
+      "payType": null,
+      "positionCount": 23,
+      "productsCount": 33,
+      "productsSum": -665.8,
+      "status": "прием на реализацию",
+    },
+  ],
+  "pagesCount": 1,
+  "rowsCount": 3,
+  "totalAllSum": -740.8,
+  "totalPaidSum": null,
+  "totalProductSum": -740.8,
+}
+`;
+
+exports[`Status Filter Get Products status [2] 1`] = `
+{
+  "pagesCount": 0,
+  "products": [],
+  "rowsCount": 0,
+}
+`;
+
+exports[`Status Filter Get Sales status [-1] 1`] = `
+{
+  "clients": [
+    {
+      "id": null,
+      "name": null,
+    },
+    {
+      "id": 245,
+      "name": "Щербаков Антон Васильевич",
+    },
+    {
+      "id": 627,
+      "name": "Sailtech Oy (Финляндия)",
+    },
+    {
+      "id": 676,
+      "name": "Maritim-Finland",
+    },
+    {
+      "id": 940,
+      "name": "web",
+    },
+    {
+      "id": 1108,
+      "name": "TREM",
+    },
+    {
+      "id": 1702,
+      "name": "MarineTech (Germany)",
+    },
+    {
+      "id": 2766,
+      "name": "Optiparts",
+    },
+    {
+      "id": 2773,
+      "name": "Windex (Sweden)",
+    },
+    {
+      "id": 9901,
+      "name": "Anton Scherbakov",
+    },
+    {
+      "id": 11182,
+      "name": "_jamuuk",
+    },
+    {
+      "id": 11183,
+      "name": "PJK",
+    },
+    {
+      "id": 11185,
+      "name": "Regate (LV)",
+    },
+    {
+      "id": 11186,
+      "name": "TommyyLyy",
+    },
+    {
+      "id": 11187,
+      "name": "Pro Marine Trade",
+    },
+    {
+      "id": 11188,
+      "name": "Татьяна Каверина (Armastus)",
+    },
+    {
+      "id": 11189,
+      "name": "NORA LII SOPRADE SELTS",
+    },
+    {
+      "id": 11190,
+      "name": "Andres",
+    },
+    {
+      "id": 11191,
+      "name": "Nautix",
+    },
+    {
+      "id": 11192,
+      "name": "Torivallavalitsus",
+    },
+    {
+      "id": 11193,
+      "name": "Ninne",
+    },
+    {
+      "id": 11194,
+      "name": "Urmas Varris",
+    },
+    {
+      "id": 11195,
+      "name": "WindWalker",
+    },
+    {
+      "id": 11196,
+      "name": "Via Grupp OU (Командор)",
+    },
+    {
+      "id": 11201,
+      "name": "Tõnis",
+    },
+    {
+      "id": 11202,
+      "name": "Jaanus",
+    },
+    {
+      "id": 11203,
+      "name": "Meister Arle OU",
+    },
+    {
+      "id": 11204,
+      "name": "Prime Marine Service OU",
+    },
+    {
+      "id": 11205,
+      "name": "Viking",
+    },
+    {
+      "id": 11206,
+      "name": "Saku",
+    },
+    {
+      "id": 11207,
+      "name": "SineneLind",
+    },
+    {
+      "id": 11208,
+      "name": "Alex Tido",
+    },
+    {
+      "id": 11209,
+      "name": "AZZURRA",
+    },
+    {
+      "id": 11210,
+      "name": "квас на пиво",
+    },
+    {
+      "id": 11211,
+      "name": "MIA (Tallin)",
+    },
+    {
+      "id": 11212,
+      "name": "MINNI",
+    },
+    {
+      "id": 11213,
+      "name": "Jonпgert OU",
+    },
+    {
+      "id": 11214,
+      "name": "MIA Pärnu",
+    },
+    {
+      "id": 11217,
+      "name": "Tauno Teluk",
+    },
+    {
+      "id": 11219,
+      "name": "Капитан",
+    },
+    {
+      "id": 11220,
+      "name": "Johannes  Atlandi Võlg",
+    },
+    {
+      "id": 11221,
+      "name": "Nimi",
+    },
+    {
+      "id": 11222,
+      "name": "Viahooldus ОÜ",
+    },
+    {
+      "id": 11223,
+      "name": "Kaupmees",
+    },
+    {
+      "id": 11224,
+      "name": "Reino",
+    },
+    {
+      "id": 11225,
+      "name": "Rubit OU",
+    },
+    {
+      "id": 11226,
+      "name": "Aleksey  Rusetsky",
+    },
+    {
+      "id": 11227,
+      "name": "Corinthian Events OÜ",
+    },
+    {
+      "id": 11228,
+      "name": "Ronstan DK",
+    },
+    {
+      "id": 11229,
+      "name": "Narva-Joesuu PurjeSpoordiKool",
+    },
+    {
+      "id": 11230,
+      "name": "Saaremaa Meri Spordiselts",
+    },
+    {
+      "id": 11231,
+      "name": "Tallux Orto",
+    },
+    {
+      "id": 11232,
+      "name": "Uku Kuusk",
+    },
+    {
+      "id": 11234,
+      "name": "Bainbridge Inc (UK)",
+    },
+    {
+      "id": 11235,
+      "name": "BetaMarine (UK)",
+    },
+    {
+      "id": 11236,
+      "name": "Change Consulting OÜ",
+    },
+    {
+      "id": 11237,
+      "name": "Rait Maru",
+    },
+    {
+      "id": 11239,
+      "name": "Žaklar OU",
+    },
+    {
+      "id": 11240,
+      "name": "Comar Systems Limited",
+    },
+    {
+      "id": 11241,
+      "name": "Kaidor",
+    },
+    {
+      "id": 11242,
+      "name": "MADEN",
+    },
+    {
+      "id": 11243,
+      "name": "Ropebox Eesti OÜ",
+    },
+    {
+      "id": 11244,
+      "name": "Muri",
+    },
+    {
+      "id": 11245,
+      "name": "Carrestoration OU",
+    },
+    {
+      "id": 11246,
+      "name": "Siren Sailing OU",
+    },
+    {
+      "id": 11247,
+      "name": "Episood OU",
+    },
+    {
+      "id": 11248,
+      "name": "Akster Grupp OU",
+    },
+    {
+      "id": 11249,
+      "name": "Alter",
+    },
+    {
+      "id": 11250,
+      "name": "Ronstan AUS",
+    },
+    {
+      "id": 11251,
+      "name": "Innon Finance OU",
+    },
+    {
+      "id": 11252,
+      "name": "Lettore OÜ",
+    },
+    {
+      "id": 11253,
+      "name": "Navideep Services OÜ",
+    },
+    {
+      "id": 11254,
+      "name": "Athaman (Polska)",
+    },
+    {
+      "id": 11255,
+      "name": "Lõbusõit OÜ",
+    },
+    {
+      "id": 11256,
+      "name": "Aleksei Mikhalev",
+    },
+    {
+      "id": 11257,
+      "name": "Ropebox OÜ",
+    },
+    {
+      "id": 11258,
+      "name": "Kaubakeskus OÜ",
+    },
+    {
+      "id": 11259,
+      "name": "Rein Ottoson OÜ",
+    },
+    {
+      "id": 11260,
+      "name": "Robert",
+    },
+    {
+      "id": 11261,
+      "name": "Merema OÜ",
+    },
+    {
+      "id": 11262,
+      "name": "Alexander Rusetsky",
+    },
+    {
+      "id": 11263,
+      "name": "Natalja Rusetskaya",
+    },
+    {
+      "id": 11264,
+      "name": "Jahtklubi Dago",
+    },
+    {
+      "id": 11265,
+      "name": "Elev Luik",
+    },
+    {
+      "id": 11266,
+      "name": "_ЗХ2023",
+    },
+    {
+      "id": 11267,
+      "name": "Vsevolod pyramidaprint",
+    },
+    {
+      "id": 11268,
+      "name": "Emerald",
+    },
+    {
+      "id": 11270,
+      "name": "Strand Sailing Management",
+    },
+    {
+      "id": 11271,
+      "name": "Tuule",
+    },
+    {
+      "id": 11272,
+      "name": "Meelis Kojamess (Баба Яга)",
+    },
+    {
+      "id": 11273,
+      "name": "Andrea FE64",
+    },
+    {
+      "id": 11274,
+      "name": "Reilut OÜ",
+    },
+    {
+      "id": 11275,
+      "name": "Pärnu cruises",
+    },
+    {
+      "id": 11280,
+      "name": "Madis Parts",
+    },
+    {
+      "id": 11281,
+      "name": "Tera ehitus OU",
+    },
+    {
+      "id": 11282,
+      "name": "Korkvender OU",
+    },
+    {
+      "id": 11291,
+      "name": "STRAND PROJEKT OÜ",
+    },
+    {
+      "id": 11292,
+      "name": "RTR Tehnika",
+    },
+    {
+      "id": 11293,
+      "name": "Eprodukt  OÜ",
+    },
+    {
+      "id": 11294,
+      "name": "Madis Parts",
+    },
+    {
+      "id": 11295,
+      "name": "SeaKayaking",
+    },
+    {
+      "id": 11296,
+      "name": "8 Motor Oy",
+    },
+    {
+      "id": 11297,
+      "name": "SKELTMER OÜ",
+    },
+    {
+      "id": 11298,
+      "name": "Jäälind",
+    },
+    {
+      "id": 11299,
+      "name": "MattChem (France)",
+    },
+    {
+      "id": 11300,
+      "name": "Car Restoration OU",
+    },
+    {
+      "id": 11301,
+      "name": "Valgeranna Seikluspark OÜ",
+    },
+    {
+      "id": 11302,
+      "name": "Kaif OÜ",
+    },
+    {
+      "id": 11303,
+      "name": "Julechka",
+    },
+    {
+      "id": 11304,
+      "name": "Longboat",
+    },
+    {
+      "id": 11305,
+      "name": "SAILING MASSIVE  OÜ",
+    },
+    {
+      "id": 11306,
+      "name": "AB Technology",
+    },
+    {
+      "id": 11307,
+      "name": "Norman Saarso",
+    },
+    {
+      "id": 11308,
+      "name": "Tuisu OÜ",
+    },
+    {
+      "id": 11309,
+      "name": "Fairaway",
+    },
+    {
+      "id": 11311,
+      "name": "Alibi OÜ",
+    },
+    {
+      "id": 11312,
+      "name": "Dirham motorpaad",
+    },
+    {
+      "id": 11313,
+      "name": "Niined group",
+    },
+    {
+      "id": 11314,
+      "name": "Magna Fide",
+    },
+    {
+      "id": 11315,
+      "name": "Корячкин",
+    },
+    {
+      "id": 11317,
+      "name": "Konstrado",
+    },
+    {
+      "id": 11318,
+      "name": "Vektom OÜ",
+    },
+    {
+      "id": 11319,
+      "name": "Kalev Jahtklubi",
+    },
+    {
+      "id": 11320,
+      "name": "Marta Vintage OÜ",
+    },
+  ],
+  "orders": [
+    {
+      "allSum": 411.2021,
+      "clientName": "Anton Scherbakov",
+      "date": "2022-08-04T10:41:00.000Z",
+      "id": 205098,
+      "isPaid": false,
+      "paidSum": null,
+      "payType": null,
+      "positionCount": 12,
+      "productsCount": -26,
+      "productsSum": 411.2021,
+      "status": "продажа",
+    },
+    {
+      "allSum": 2.1,
+      "clientName": "_jamuuk",
+      "date": "2022-08-04T21:43:00.000Z",
+      "id": 205060,
+      "isPaid": true,
+      "paidSum": 2.1,
+      "payType": "Visa",
+      "positionCount": 2,
+      "productsCount": -2,
+      "productsSum": 2.1,
+      "status": "продажа",
+    },
+    {
+      "allSum": 15,
+      "clientName": "_jamuuk",
+      "date": "2022-08-04T19:13:00.000Z",
+      "id": 205059,
+      "isPaid": true,
+      "paidSum": 15,
+      "payType": "Visa",
+      "positionCount": 3,
+      "productsCount": -6,
+      "productsSum": 15,
+      "status": "продажа",
+    },
+    {
+      "allSum": 13,
+      "clientName": "_jamuuk",
+      "date": "2022-08-04T19:10:00.000Z",
+      "id": 205058,
+      "isPaid": true,
+      "paidSum": 13,
+      "payType": "Visa",
+      "positionCount": 1,
+      "productsCount": -1,
+      "productsSum": 13,
+      "status": "продажа",
+    },
+    {
+      "allSum": 49,
+      "clientName": "_jamuuk",
+      "date": "2022-08-04T16:50:00.000Z",
+      "id": 205057,
+      "isPaid": true,
+      "paidSum": 49,
+      "payType": "Visa",
+      "positionCount": 2,
+      "productsCount": -2,
+      "productsSum": 49,
+      "status": "продажа",
+    },
+    {
+      "allSum": 18.67,
+      "clientName": "Lettore OÜ",
+      "date": "2022-08-04T15:25:00.000Z",
+      "id": 205056,
+      "isPaid": true,
+      "paidSum": 18.67,
+      "payType": "Visa",
+      "positionCount": 1,
+      "productsCount": -1,
+      "productsSum": 18.67,
+      "status": "продажа",
+    },
+    {
+      "allSum": 43,
+      "clientName": "_jamuuk",
+      "date": "2022-08-04T14:43:00.000Z",
+      "id": 205055,
+      "isPaid": true,
+      "paidSum": 43,
+      "payType": "Visa",
+      "positionCount": 1,
+      "productsCount": -1,
+      "productsSum": 43,
+      "status": "продажа",
+    },
+    {
+      "allSum": 12.6,
+      "clientName": "_jamuuk",
+      "date": "2022-08-04T14:36:00.000Z",
+      "id": 205054,
+      "isPaid": true,
+      "paidSum": 12.6,
+      "payType": "Visa",
+      "positionCount": 2,
+      "productsCount": -7,
+      "productsSum": 12.6,
+      "status": "продажа",
+    },
+    {
+      "allSum": 12,
+      "clientName": "_jamuuk",
+      "date": "2022-08-03T19:38:00.000Z",
+      "id": 205052,
+      "isPaid": true,
+      "paidSum": 12,
+      "payType": "Visa",
+      "positionCount": 1,
+      "productsCount": -1,
+      "productsSum": 12,
+      "status": "продажа",
+    },
+    {
+      "allSum": 62,
+      "clientName": "_jamuuk",
+      "date": "2022-08-03T21:53:00.000Z",
+      "id": 205051,
+      "isPaid": true,
+      "paidSum": 62,
+      "payType": "Visa",
+      "positionCount": 5,
+      "productsCount": -5,
+      "productsSum": 62,
+      "status": "продажа",
+    },
+  ],
+  "pagesCount": 2,
+  "rowsCount": 17,
+  "totalAllSum": 1021.4721,
+  "totalPaidSum": 601.27,
+  "totalProductSum": 1021.4721,
+}
+`;
+
+exports[`Status Filter Get Products status [-1] 1`] = `
+{
+  "pagesCount": 5,
+  "products": [
+    {
+      "avgPrice": 2.5,
+      "id": 58172,
+      "maxPrice": 2.5,
+      "minPrice": 2.5,
+      "name": "Olu Saku Rock  0.568",
+      "ordersCount": 1,
+      "totalCount": -15,
+      "totalSum": 37.5,
+    },
+    {
+      "avgPrice": 2,
+      "id": 58171,
+      "maxPrice": 2,
+      "minPrice": 2,
+      "name": "Kokteil Somersby apple 0.33",
+      "ordersCount": 1,
+      "totalCount": -1,
+      "totalSum": 2,
+    },
+    {
+      "avgPrice": 2.5,
+      "id": 58169,
+      "maxPrice": 2.5,
+      "minPrice": 2.5,
+      "name": "Olu Urquell Pilsner hele  4.4%  0.5",
+      "ordersCount": 2,
+      "totalCount": -9,
+      "totalSum": 22.5,
+    },
+    {
+      "avgPrice": 2.5,
+      "id": 58168,
+      "maxPrice": 2.5,
+      "minPrice": 2.5,
+      "name": "Olu Meistrite Gildi 4.8%  0.5",
+      "ordersCount": 2,
+      "totalCount": -4,
+      "totalSum": 10,
+    },
+    {
+      "avgPrice": 1.4,
+      "id": 58167,
+      "maxPrice": 1.4,
+      "minPrice": 1.4,
+      "name": "oriGINinal 0%  0.33",
+      "ordersCount": 1,
+      "totalCount": -2,
+      "totalSum": 2.8,
+    },
+    {
+      "avgPrice": 2.5,
+      "id": 58094,
+      "maxPrice": 2.5,
+      "minPrice": 2.5,
+      "name": "Olu Heineken 0.5",
+      "ordersCount": 3,
+      "totalCount": -10,
+      "totalSum": 25,
+    },
+    {
+      "avgPrice": 2,
+      "id": 58027,
+      "maxPrice": 2,
+      "minPrice": 2,
+      "name": "Kokteil Koff Grapefruit 0.33",
+      "ordersCount": 1,
+      "totalCount": -5,
+      "totalSum": 10,
+    },
+    {
+      "avgPrice": 2,
+      "id": 58025,
+      "maxPrice": 2,
+      "minPrice": 2,
+      "name": "Olu Saku Kuld 0.33",
+      "ordersCount": 1,
+      "totalCount": -21,
+      "totalSum": 42,
+    },
+    {
+      "avgPrice": 2,
+      "id": 58024,
+      "maxPrice": 2,
+      "minPrice": 2,
+      "name": "Olu Saku Originaal 0.33",
+      "ordersCount": 1,
+      "totalCount": -3,
+      "totalSum": 6,
+    },
+    {
+      "avgPrice": 1,
+      "id": 58021,
+      "maxPrice": 1,
+      "minPrice": 1,
+      "name": "Vesi Vichi Still  vesi 0.5L PET 24",
+      "ordersCount": 1,
+      "totalCount": -15,
+      "totalSum": 15,
+    },
+  ],
+  "rowsCount": 46,
+}
+`;
+
+exports[`Status Filter Get Sales status [1] 1`] = `
+{
+  "clients": [
+    {
+      "id": null,
+      "name": null,
+    },
+    {
+      "id": 245,
+      "name": "Щербаков Антон Васильевич",
+    },
+    {
+      "id": 627,
+      "name": "Sailtech Oy (Финляндия)",
+    },
+    {
+      "id": 676,
+      "name": "Maritim-Finland",
+    },
+    {
+      "id": 940,
+      "name": "web",
+    },
+    {
+      "id": 1108,
+      "name": "TREM",
+    },
+    {
+      "id": 1702,
+      "name": "MarineTech (Germany)",
+    },
+    {
+      "id": 2766,
+      "name": "Optiparts",
+    },
+    {
+      "id": 2773,
+      "name": "Windex (Sweden)",
+    },
+    {
+      "id": 9901,
+      "name": "Anton Scherbakov",
+    },
+    {
+      "id": 11182,
+      "name": "_jamuuk",
+    },
+    {
+      "id": 11183,
+      "name": "PJK",
+    },
+    {
+      "id": 11185,
+      "name": "Regate (LV)",
+    },
+    {
+      "id": 11186,
+      "name": "TommyyLyy",
+    },
+    {
+      "id": 11187,
+      "name": "Pro Marine Trade",
+    },
+    {
+      "id": 11188,
+      "name": "Татьяна Каверина (Armastus)",
+    },
+    {
+      "id": 11189,
+      "name": "NORA LII SOPRADE SELTS",
+    },
+    {
+      "id": 11190,
+      "name": "Andres",
+    },
+    {
+      "id": 11191,
+      "name": "Nautix",
+    },
+    {
+      "id": 11192,
+      "name": "Torivallavalitsus",
+    },
+    {
+      "id": 11193,
+      "name": "Ninne",
+    },
+    {
+      "id": 11194,
+      "name": "Urmas Varris",
+    },
+    {
+      "id": 11195,
+      "name": "WindWalker",
+    },
+    {
+      "id": 11196,
+      "name": "Via Grupp OU (Командор)",
+    },
+    {
+      "id": 11201,
+      "name": "Tõnis",
+    },
+    {
+      "id": 11202,
+      "name": "Jaanus",
+    },
+    {
+      "id": 11203,
+      "name": "Meister Arle OU",
+    },
+    {
+      "id": 11204,
+      "name": "Prime Marine Service OU",
+    },
+    {
+      "id": 11205,
+      "name": "Viking",
+    },
+    {
+      "id": 11206,
+      "name": "Saku",
+    },
+    {
+      "id": 11207,
+      "name": "SineneLind",
+    },
+    {
+      "id": 11208,
+      "name": "Alex Tido",
+    },
+    {
+      "id": 11209,
+      "name": "AZZURRA",
+    },
+    {
+      "id": 11210,
+      "name": "квас на пиво",
+    },
+    {
+      "id": 11211,
+      "name": "MIA (Tallin)",
+    },
+    {
+      "id": 11212,
+      "name": "MINNI",
+    },
+    {
+      "id": 11213,
+      "name": "Jonпgert OU",
+    },
+    {
+      "id": 11214,
+      "name": "MIA Pärnu",
+    },
+    {
+      "id": 11217,
+      "name": "Tauno Teluk",
+    },
+    {
+      "id": 11219,
+      "name": "Капитан",
+    },
+    {
+      "id": 11220,
+      "name": "Johannes  Atlandi Võlg",
+    },
+    {
+      "id": 11221,
+      "name": "Nimi",
+    },
+    {
+      "id": 11222,
+      "name": "Viahooldus ОÜ",
+    },
+    {
+      "id": 11223,
+      "name": "Kaupmees",
+    },
+    {
+      "id": 11224,
+      "name": "Reino",
+    },
+    {
+      "id": 11225,
+      "name": "Rubit OU",
+    },
+    {
+      "id": 11226,
+      "name": "Aleksey  Rusetsky",
+    },
+    {
+      "id": 11227,
+      "name": "Corinthian Events OÜ",
+    },
+    {
+      "id": 11228,
+      "name": "Ronstan DK",
+    },
+    {
+      "id": 11229,
+      "name": "Narva-Joesuu PurjeSpoordiKool",
+    },
+    {
+      "id": 11230,
+      "name": "Saaremaa Meri Spordiselts",
+    },
+    {
+      "id": 11231,
+      "name": "Tallux Orto",
+    },
+    {
+      "id": 11232,
+      "name": "Uku Kuusk",
+    },
+    {
+      "id": 11234,
+      "name": "Bainbridge Inc (UK)",
+    },
+    {
+      "id": 11235,
+      "name": "BetaMarine (UK)",
+    },
+    {
+      "id": 11236,
+      "name": "Change Consulting OÜ",
+    },
+    {
+      "id": 11237,
+      "name": "Rait Maru",
+    },
+    {
+      "id": 11239,
+      "name": "Žaklar OU",
+    },
+    {
+      "id": 11240,
+      "name": "Comar Systems Limited",
+    },
+    {
+      "id": 11241,
+      "name": "Kaidor",
+    },
+    {
+      "id": 11242,
+      "name": "MADEN",
+    },
+    {
+      "id": 11243,
+      "name": "Ropebox Eesti OÜ",
+    },
+    {
+      "id": 11244,
+      "name": "Muri",
+    },
+    {
+      "id": 11245,
+      "name": "Carrestoration OU",
+    },
+    {
+      "id": 11246,
+      "name": "Siren Sailing OU",
+    },
+    {
+      "id": 11247,
+      "name": "Episood OU",
+    },
+    {
+      "id": 11248,
+      "name": "Akster Grupp OU",
+    },
+    {
+      "id": 11249,
+      "name": "Alter",
+    },
+    {
+      "id": 11250,
+      "name": "Ronstan AUS",
+    },
+    {
+      "id": 11251,
+      "name": "Innon Finance OU",
+    },
+    {
+      "id": 11252,
+      "name": "Lettore OÜ",
+    },
+    {
+      "id": 11253,
+      "name": "Navideep Services OÜ",
+    },
+    {
+      "id": 11254,
+      "name": "Athaman (Polska)",
+    },
+    {
+      "id": 11255,
+      "name": "Lõbusõit OÜ",
+    },
+    {
+      "id": 11256,
+      "name": "Aleksei Mikhalev",
+    },
+    {
+      "id": 11257,
+      "name": "Ropebox OÜ",
+    },
+    {
+      "id": 11258,
+      "name": "Kaubakeskus OÜ",
+    },
+    {
+      "id": 11259,
+      "name": "Rein Ottoson OÜ",
+    },
+    {
+      "id": 11260,
+      "name": "Robert",
+    },
+    {
+      "id": 11261,
+      "name": "Merema OÜ",
+    },
+    {
+      "id": 11262,
+      "name": "Alexander Rusetsky",
+    },
+    {
+      "id": 11263,
+      "name": "Natalja Rusetskaya",
+    },
+    {
+      "id": 11264,
+      "name": "Jahtklubi Dago",
+    },
+    {
+      "id": 11265,
+      "name": "Elev Luik",
+    },
+    {
+      "id": 11266,
+      "name": "_ЗХ2023",
+    },
+    {
+      "id": 11267,
+      "name": "Vsevolod pyramidaprint",
+    },
+    {
+      "id": 11268,
+      "name": "Emerald",
+    },
+    {
+      "id": 11270,
+      "name": "Strand Sailing Management",
+    },
+    {
+      "id": 11271,
+      "name": "Tuule",
+    },
+    {
+      "id": 11272,
+      "name": "Meelis Kojamess (Баба Яга)",
+    },
+    {
+      "id": 11273,
+      "name": "Andrea FE64",
+    },
+    {
+      "id": 11274,
+      "name": "Reilut OÜ",
+    },
+    {
+      "id": 11275,
+      "name": "Pärnu cruises",
+    },
+    {
+      "id": 11280,
+      "name": "Madis Parts",
+    },
+    {
+      "id": 11281,
+      "name": "Tera ehitus OU",
+    },
+    {
+      "id": 11282,
+      "name": "Korkvender OU",
+    },
+    {
+      "id": 11291,
+      "name": "STRAND PROJEKT OÜ",
+    },
+    {
+      "id": 11292,
+      "name": "RTR Tehnika",
+    },
+    {
+      "id": 11293,
+      "name": "Eprodukt  OÜ",
+    },
+    {
+      "id": 11294,
+      "name": "Madis Parts",
+    },
+    {
+      "id": 11295,
+      "name": "SeaKayaking",
+    },
+    {
+      "id": 11296,
+      "name": "8 Motor Oy",
+    },
+    {
+      "id": 11297,
+      "name": "SKELTMER OÜ",
+    },
+    {
+      "id": 11298,
+      "name": "Jäälind",
+    },
+    {
+      "id": 11299,
+      "name": "MattChem (France)",
+    },
+    {
+      "id": 11300,
+      "name": "Car Restoration OU",
+    },
+    {
+      "id": 11301,
+      "name": "Valgeranna Seikluspark OÜ",
+    },
+    {
+      "id": 11302,
+      "name": "Kaif OÜ",
+    },
+    {
+      "id": 11303,
+      "name": "Julechka",
+    },
+    {
+      "id": 11304,
+      "name": "Longboat",
+    },
+    {
+      "id": 11305,
+      "name": "SAILING MASSIVE  OÜ",
+    },
+    {
+      "id": 11306,
+      "name": "AB Technology",
+    },
+    {
+      "id": 11307,
+      "name": "Norman Saarso",
+    },
+    {
+      "id": 11308,
+      "name": "Tuisu OÜ",
+    },
+    {
+      "id": 11309,
+      "name": "Fairaway",
+    },
+    {
+      "id": 11311,
+      "name": "Alibi OÜ",
+    },
+    {
+      "id": 11312,
+      "name": "Dirham motorpaad",
+    },
+    {
+      "id": 11313,
+      "name": "Niined group",
+    },
+    {
+      "id": 11314,
+      "name": "Magna Fide",
+    },
+    {
+      "id": 11315,
+      "name": "Корячкин",
+    },
+    {
+      "id": 11317,
+      "name": "Konstrado",
+    },
+    {
+      "id": 11318,
+      "name": "Vektom OÜ",
+    },
+    {
+      "id": 11319,
+      "name": "Kalev Jahtklubi",
+    },
+    {
+      "id": 11320,
+      "name": "Marta Vintage OÜ",
+    },
+  ],
+  "orders": [
+    {
+      "allSum": -912.9856,
+      "clientName": "Ronstan AUS",
+      "date": "2022-07-27T19:18:00.000Z",
+      "id": 205261,
+      "isPaid": false,
+      "paidSum": null,
+      "payType": null,
+      "positionCount": 8,
+      "productsCount": 124,
+      "productsSum": -912.9856,
+      "status": "покупка",
+    },
+    {
+      "allSum": -2830.5905,
+      "clientName": "Ronstan AUS",
+      "date": "2022-07-01T19:13:00.000Z",
+      "id": 205260,
+      "isPaid": false,
+      "paidSum": null,
+      "payType": null,
+      "positionCount": 22,
+      "productsCount": 330,
+      "productsSum": -2830.5905,
+      "status": "покупка",
+    },
+    {
+      "allSum": -708.9206,
+      "clientName": "Ropebox Eesti OÜ",
+      "date": "2022-07-01T12:27:00.000Z",
+      "id": 205155,
+      "isPaid": false,
+      "paidSum": -708.92,
+      "payType": "Б/н",
+      "positionCount": 9,
+      "productsCount": 29,
+      "productsSum": -708.9206,
+      "status": "покупка",
+    },
+    {
+      "allSum": -3381.8686,
+      "clientName": "Ronstan AUS",
+      "date": "2022-07-28T17:56:00.000Z",
+      "id": 205036,
+      "isPaid": false,
+      "paidSum": null,
+      "payType": null,
+      "positionCount": 28,
+      "productsCount": 594,
+      "productsSum": -3381.8686,
+      "status": "покупка",
+    },
+    {
+      "allSum": -871.1575,
+      "clientName": "Sailtech Oy (Финляндия)",
+      "date": "2022-07-28T12:30:00.000Z",
+      "id": 205032,
+      "isPaid": false,
+      "paidSum": null,
+      "payType": null,
+      "positionCount": 16,
+      "productsCount": 46,
+      "productsSum": -871.1575,
+      "status": "покупка",
+    },
+    {
+      "allSum": -836,
+      "clientName": "Alter",
+      "date": "2022-07-17T13:39:00.000Z",
+      "id": 205020,
+      "isPaid": true,
+      "paidSum": -836,
+      "payType": "Нал",
+      "positionCount": 31,
+      "productsCount": 36,
+      "productsSum": -836,
+      "status": "покупка",
+    },
+    {
+      "allSum": -989.2297,
+      "clientName": "Bainbridge Inc (UK)",
+      "date": "2022-07-24T13:30:00.000Z",
+      "id": 205019,
+      "isPaid": true,
+      "paidSum": -989.2297,
+      "payType": "Б/н",
+      "positionCount": 15,
+      "productsCount": 148,
+      "productsSum": -989.2297,
+      "status": "покупка",
+    },
+    {
+      "allSum": -599.5147,
+      "clientName": "Regate (LV)",
+      "date": "2022-07-23T17:59:00.000Z",
+      "id": 205016,
+      "isPaid": true,
+      "paidSum": -599.5147,
+      "payType": "Б/н",
+      "positionCount": 6,
+      "productsCount": 293,
+      "productsSum": -599.5147,
+      "status": "покупка",
+    },
+    {
+      "allSum": -283.3992,
+      "clientName": "Saku",
+      "date": "2022-07-13T12:28:00.000Z",
+      "id": 204899,
+      "isPaid": false,
+      "paidSum": null,
+      "payType": null,
+      "positionCount": 8,
+      "productsCount": 264,
+      "productsSum": -283.3992,
+      "status": "покупка",
+    },
+    {
+      "allSum": -375.9697,
+      "clientName": "Windex (Sweden)",
+      "date": "2022-07-11T11:58:00.000Z",
+      "id": 204895,
+      "isPaid": true,
+      "paidSum": -375.9697,
+      "payType": "Б/н",
+      "positionCount": 3,
+      "productsCount": 12,
+      "productsSum": -375.9697,
+      "status": "покупка",
+    },
+  ],
+  "pagesCount": 2,
+  "rowsCount": 14,
+  "totalAllSum": -15204.5872,
+  "totalPaidSum": -3642.7141,
+  "totalProductSum": -15204.5872,
+}
+`;
+
+exports[`Status Filter Get Products status [1] 1`] = `
+{
+  "pagesCount": 22,
+  "products": [
+    {
+      "avgPrice": 55.4967,
+      "id": 58201,
+      "maxPrice": 55.4967,
+      "minPrice": 55.4967,
+      "name": "Закрутка геннакера серия 60. верхний шарнир",
+      "ordersCount": 1,
+      "totalCount": 2,
+      "totalSum": -110.9934,
+    },
+    {
+      "avgPrice": 90.3865,
+      "id": 58200,
+      "maxPrice": 90.3865,
+      "minPrice": 90.3865,
+      "name": "Закрутка для геннакера серия 60. нижняя часть",
+      "ordersCount": 1,
+      "totalCount": 2,
+      "totalSum": -180.773,
+    },
+    {
+      "avgPrice": 31.9,
+      "id": 58199,
+      "maxPrice": 31.9,
+      "minPrice": 31.9,
+      "name": "Waterproof Boot Sock - Tumehall/must - L",
+      "ordersCount": 1,
+      "totalCount": 1,
+      "totalSum": -31.9,
+    },
+    {
+      "avgPrice": 31.9,
+      "id": 58198,
+      "maxPrice": 31.9,
+      "minPrice": 31.9,
+      "name": "Waterproof Boot Sock - Tumehall/must - M",
+      "ordersCount": 1,
+      "totalCount": 1,
+      "totalSum": -31.9,
+    },
+    {
+      "avgPrice": 31.35,
+      "id": 58197,
+      "maxPrice": 31.35,
+      "minPrice": 31.35,
+      "name": "Waterproof Boot Sock - Tumehall/must - S",
+      "ordersCount": 1,
+      "totalCount": 1,
+      "totalSum": -31.35,
+    },
+    {
+      "avgPrice": 27.5,
+      "id": 58196,
+      "maxPrice": 27.5,
+      "minPrice": 27.5,
+      "name": "Pro Gloves (Long Finger) - Must - XXL",
+      "ordersCount": 1,
+      "totalCount": 1,
+      "totalSum": -27.5,
+    },
+    {
+      "avgPrice": 27.5,
+      "id": 58195,
+      "maxPrice": 27.5,
+      "minPrice": 27.5,
+      "name": "Pro Gloves (Long Finger) - Must - M",
+      "ordersCount": 1,
+      "totalCount": 1,
+      "totalSum": -27.5,
+    },
+    {
+      "avgPrice": 27.5,
+      "id": 58194,
+      "maxPrice": 27.5,
+      "minPrice": 27.5,
+      "name": "Pro Gloves (Long Finger) - Must - S",
+      "ordersCount": 1,
+      "totalCount": 1,
+      "totalSum": -27.5,
+    },
+    {
+      "avgPrice": 27.5,
+      "id": 58193,
+      "maxPrice": 27.5,
+      "minPrice": 27.5,
+      "name": "Pro Gloves (Long Finger) - Must - XS",
+      "ordersCount": 1,
+      "totalCount": 1,
+      "totalSum": -27.5,
+    },
+    {
+      "avgPrice": 24.75,
+      "id": 58192,
+      "maxPrice": 24.75,
+      "minPrice": 24.75,
+      "name": "Championship Gloves (Long Finger) - Must - XXL",
+      "ordersCount": 1,
+      "totalCount": 1,
+      "totalSum": -24.75,
+    },
+  ],
+  "rowsCount": 217,
+}
+`;
+
+exports[`Status Filter Get Sales status [0, 2, 3] 1`] = `
+{
+  "clients": [
+    {
+      "id": null,
+      "name": null,
+    },
+    {
+      "id": 245,
+      "name": "Щербаков Антон Васильевич",
+    },
+    {
+      "id": 627,
+      "name": "Sailtech Oy (Финляндия)",
+    },
+    {
+      "id": 676,
+      "name": "Maritim-Finland",
+    },
+    {
+      "id": 940,
+      "name": "web",
+    },
+    {
+      "id": 1108,
+      "name": "TREM",
+    },
+    {
+      "id": 1702,
+      "name": "MarineTech (Germany)",
+    },
+    {
+      "id": 2766,
+      "name": "Optiparts",
+    },
+    {
+      "id": 2773,
+      "name": "Windex (Sweden)",
+    },
+    {
+      "id": 9901,
+      "name": "Anton Scherbakov",
+    },
+    {
+      "id": 11182,
+      "name": "_jamuuk",
+    },
+    {
+      "id": 11183,
+      "name": "PJK",
+    },
+    {
+      "id": 11185,
+      "name": "Regate (LV)",
+    },
+    {
+      "id": 11186,
+      "name": "TommyyLyy",
+    },
+    {
+      "id": 11187,
+      "name": "Pro Marine Trade",
+    },
+    {
+      "id": 11188,
+      "name": "Татьяна Каверина (Armastus)",
+    },
+    {
+      "id": 11189,
+      "name": "NORA LII SOPRADE SELTS",
+    },
+    {
+      "id": 11190,
+      "name": "Andres",
+    },
+    {
+      "id": 11191,
+      "name": "Nautix",
+    },
+    {
+      "id": 11192,
+      "name": "Torivallavalitsus",
+    },
+    {
+      "id": 11193,
+      "name": "Ninne",
+    },
+    {
+      "id": 11194,
+      "name": "Urmas Varris",
+    },
+    {
+      "id": 11195,
+      "name": "WindWalker",
+    },
+    {
+      "id": 11196,
+      "name": "Via Grupp OU (Командор)",
+    },
+    {
+      "id": 11201,
+      "name": "Tõnis",
+    },
+    {
+      "id": 11202,
+      "name": "Jaanus",
+    },
+    {
+      "id": 11203,
+      "name": "Meister Arle OU",
+    },
+    {
+      "id": 11204,
+      "name": "Prime Marine Service OU",
+    },
+    {
+      "id": 11205,
+      "name": "Viking",
+    },
+    {
+      "id": 11206,
+      "name": "Saku",
+    },
+    {
+      "id": 11207,
+      "name": "SineneLind",
+    },
+    {
+      "id": 11208,
+      "name": "Alex Tido",
+    },
+    {
+      "id": 11209,
+      "name": "AZZURRA",
+    },
+    {
+      "id": 11210,
+      "name": "квас на пиво",
+    },
+    {
+      "id": 11211,
+      "name": "MIA (Tallin)",
+    },
+    {
+      "id": 11212,
+      "name": "MINNI",
+    },
+    {
+      "id": 11213,
+      "name": "Jonпgert OU",
+    },
+    {
+      "id": 11214,
+      "name": "MIA Pärnu",
+    },
+    {
+      "id": 11217,
+      "name": "Tauno Teluk",
+    },
+    {
+      "id": 11219,
+      "name": "Капитан",
+    },
+    {
+      "id": 11220,
+      "name": "Johannes  Atlandi Võlg",
+    },
+    {
+      "id": 11221,
+      "name": "Nimi",
+    },
+    {
+      "id": 11222,
+      "name": "Viahooldus ОÜ",
+    },
+    {
+      "id": 11223,
+      "name": "Kaupmees",
+    },
+    {
+      "id": 11224,
+      "name": "Reino",
+    },
+    {
+      "id": 11225,
+      "name": "Rubit OU",
+    },
+    {
+      "id": 11226,
+      "name": "Aleksey  Rusetsky",
+    },
+    {
+      "id": 11227,
+      "name": "Corinthian Events OÜ",
+    },
+    {
+      "id": 11228,
+      "name": "Ronstan DK",
+    },
+    {
+      "id": 11229,
+      "name": "Narva-Joesuu PurjeSpoordiKool",
+    },
+    {
+      "id": 11230,
+      "name": "Saaremaa Meri Spordiselts",
+    },
+    {
+      "id": 11231,
+      "name": "Tallux Orto",
+    },
+    {
+      "id": 11232,
+      "name": "Uku Kuusk",
+    },
+    {
+      "id": 11234,
+      "name": "Bainbridge Inc (UK)",
+    },
+    {
+      "id": 11235,
+      "name": "BetaMarine (UK)",
+    },
+    {
+      "id": 11236,
+      "name": "Change Consulting OÜ",
+    },
+    {
+      "id": 11237,
+      "name": "Rait Maru",
+    },
+    {
+      "id": 11239,
+      "name": "Žaklar OU",
+    },
+    {
+      "id": 11240,
+      "name": "Comar Systems Limited",
+    },
+    {
+      "id": 11241,
+      "name": "Kaidor",
+    },
+    {
+      "id": 11242,
+      "name": "MADEN",
+    },
+    {
+      "id": 11243,
+      "name": "Ropebox Eesti OÜ",
+    },
+    {
+      "id": 11244,
+      "name": "Muri",
+    },
+    {
+      "id": 11245,
+      "name": "Carrestoration OU",
+    },
+    {
+      "id": 11246,
+      "name": "Siren Sailing OU",
+    },
+    {
+      "id": 11247,
+      "name": "Episood OU",
+    },
+    {
+      "id": 11248,
+      "name": "Akster Grupp OU",
+    },
+    {
+      "id": 11249,
+      "name": "Alter",
+    },
+    {
+      "id": 11250,
+      "name": "Ronstan AUS",
+    },
+    {
+      "id": 11251,
+      "name": "Innon Finance OU",
+    },
+    {
+      "id": 11252,
+      "name": "Lettore OÜ",
+    },
+    {
+      "id": 11253,
+      "name": "Navideep Services OÜ",
+    },
+    {
+      "id": 11254,
+      "name": "Athaman (Polska)",
+    },
+    {
+      "id": 11255,
+      "name": "Lõbusõit OÜ",
+    },
+    {
+      "id": 11256,
+      "name": "Aleksei Mikhalev",
+    },
+    {
+      "id": 11257,
+      "name": "Ropebox OÜ",
+    },
+    {
+      "id": 11258,
+      "name": "Kaubakeskus OÜ",
+    },
+    {
+      "id": 11259,
+      "name": "Rein Ottoson OÜ",
+    },
+    {
+      "id": 11260,
+      "name": "Robert",
+    },
+    {
+      "id": 11261,
+      "name": "Merema OÜ",
+    },
+    {
+      "id": 11262,
+      "name": "Alexander Rusetsky",
+    },
+    {
+      "id": 11263,
+      "name": "Natalja Rusetskaya",
+    },
+    {
+      "id": 11264,
+      "name": "Jahtklubi Dago",
+    },
+    {
+      "id": 11265,
+      "name": "Elev Luik",
+    },
+    {
+      "id": 11266,
+      "name": "_ЗХ2023",
+    },
+    {
+      "id": 11267,
+      "name": "Vsevolod pyramidaprint",
+    },
+    {
+      "id": 11268,
+      "name": "Emerald",
+    },
+    {
+      "id": 11270,
+      "name": "Strand Sailing Management",
+    },
+    {
+      "id": 11271,
+      "name": "Tuule",
+    },
+    {
+      "id": 11272,
+      "name": "Meelis Kojamess (Баба Яга)",
+    },
+    {
+      "id": 11273,
+      "name": "Andrea FE64",
+    },
+    {
+      "id": 11274,
+      "name": "Reilut OÜ",
+    },
+    {
+      "id": 11275,
+      "name": "Pärnu cruises",
+    },
+    {
+      "id": 11280,
+      "name": "Madis Parts",
+    },
+    {
+      "id": 11281,
+      "name": "Tera ehitus OU",
+    },
+    {
+      "id": 11282,
+      "name": "Korkvender OU",
+    },
+    {
+      "id": 11291,
+      "name": "STRAND PROJEKT OÜ",
+    },
+    {
+      "id": 11292,
+      "name": "RTR Tehnika",
+    },
+    {
+      "id": 11293,
+      "name": "Eprodukt  OÜ",
+    },
+    {
+      "id": 11294,
+      "name": "Madis Parts",
+    },
+    {
+      "id": 11295,
+      "name": "SeaKayaking",
+    },
+    {
+      "id": 11296,
+      "name": "8 Motor Oy",
+    },
+    {
+      "id": 11297,
+      "name": "SKELTMER OÜ",
+    },
+    {
+      "id": 11298,
+      "name": "Jäälind",
+    },
+    {
+      "id": 11299,
+      "name": "MattChem (France)",
+    },
+    {
+      "id": 11300,
+      "name": "Car Restoration OU",
+    },
+    {
+      "id": 11301,
+      "name": "Valgeranna Seikluspark OÜ",
+    },
+    {
+      "id": 11302,
+      "name": "Kaif OÜ",
+    },
+    {
+      "id": 11303,
+      "name": "Julechka",
+    },
+    {
+      "id": 11304,
+      "name": "Longboat",
+    },
+    {
+      "id": 11305,
+      "name": "SAILING MASSIVE  OÜ",
+    },
+    {
+      "id": 11306,
+      "name": "AB Technology",
+    },
+    {
+      "id": 11307,
+      "name": "Norman Saarso",
+    },
+    {
+      "id": 11308,
+      "name": "Tuisu OÜ",
+    },
+    {
+      "id": 11309,
+      "name": "Fairaway",
+    },
+    {
+      "id": 11311,
+      "name": "Alibi OÜ",
+    },
+    {
+      "id": 11312,
+      "name": "Dirham motorpaad",
+    },
+    {
+      "id": 11313,
+      "name": "Niined group",
+    },
+    {
+      "id": 11314,
+      "name": "Magna Fide",
+    },
+    {
+      "id": 11315,
+      "name": "Корячкин",
+    },
+    {
+      "id": 11317,
+      "name": "Konstrado",
+    },
+    {
+      "id": 11318,
+      "name": "Vektom OÜ",
+    },
+    {
+      "id": 11319,
+      "name": "Kalev Jahtklubi",
+    },
+    {
+      "id": 11320,
+      "name": "Marta Vintage OÜ",
+    },
+  ],
+  "orders": [
+    {
+      "allSum": -18.98,
+      "clientName": "Ronstan AUS",
+      "date": "2022-07-27T19:19:00.000Z",
+      "id": 205262,
+      "isPaid": false,
+      "paidSum": null,
+      "payType": null,
+      "positionCount": 1,
+      "productsCount": 2,
+      "productsSum": -18.98,
+      "status": "заказ поставщику",
+    },
+    {
+      "allSum": -3875.2653,
+      "clientName": "Ronstan AUS",
+      "date": "2022-07-28T18:09:00.000Z",
+      "id": 205259,
+      "isPaid": false,
+      "paidSum": null,
+      "payType": null,
+      "positionCount": 48,
+      "productsCount": 681,
+      "productsSum": -3875.2653,
+      "status": "заказ поставщику",
+    },
+    {
+      "allSum": -493.3967,
+      "clientName": "Ronstan AUS",
+      "date": "2022-07-28T17:34:00.000Z",
+      "id": 205255,
+      "isPaid": false,
+      "paidSum": null,
+      "payType": null,
+      "positionCount": 20,
+      "productsCount": 87,
+      "productsSum": -493.3967,
+      "status": "заказ поставщику",
+    },
+    {
+      "allSum": 28.8333,
+      "clientName": "web",
+      "date": "2022-07-29T12:24:00.000Z",
+      "id": 205044,
+      "isPaid": false,
+      "paidSum": null,
+      "payType": null,
+      "positionCount": 1,
+      "productsCount": -1,
+      "productsSum": 28.8333,
+      "status": "заказ покупателя",
+    },
+    {
+      "allSum": -931.972,
+      "clientName": "Ronstan AUS",
+      "date": "2022-07-27T14:36:00.000Z",
+      "id": 205025,
+      "isPaid": false,
+      "paidSum": null,
+      "payType": null,
+      "positionCount": 9,
+      "productsCount": 126,
+      "productsSum": -931.972,
+      "status": "заказ поставщику",
+    },
+    {
+      "allSum": -437.0588,
+      "clientName": "Ropebox Eesti OÜ",
+      "date": "2022-07-20T10:47:00.000Z",
+      "id": 204983,
+      "isPaid": false,
+      "paidSum": 437.0588,
+      "payType": "Б/н",
+      "positionCount": 14,
+      "productsCount": 22,
+      "productsSum": -437.0588,
+      "status": "заказ поставщику",
+    },
+    {
+      "allSum": 53,
+      "clientName": "web",
+      "date": "2022-07-13T17:46:00.000Z",
+      "id": 204905,
+      "isPaid": false,
+      "paidSum": null,
+      "payType": null,
+      "positionCount": 3,
+      "productsCount": -11,
+      "productsSum": 53,
+      "status": "заказ покупателя",
+    },
+    {
+      "allSum": 2053,
+      "clientName": "Jaanus",
+      "date": "2022-07-13T14:30:00.000Z",
+      "id": 204902,
+      "isPaid": false,
+      "paidSum": null,
+      "payType": null,
+      "positionCount": 13,
+      "productsCount": -144,
+      "productsSum": 2053,
+      "status": "заказ покупателя",
+    },
+    {
+      "allSum": 2000,
+      "clientName": "Ropebox Eesti OÜ",
+      "date": "2022-07-05T14:27:00.000Z",
+      "id": 204849,
+      "isPaid": false,
+      "paidSum": null,
+      "payType": null,
+      "positionCount": 2,
+      "productsCount": -21,
+      "productsSum": 2000,
+      "status": "заказ покупателя",
+    },
+    {
+      "allSum": 156.32,
+      "clientName": "web",
+      "date": "2022-07-04T17:27:00.000Z",
+      "id": 204848,
+      "isPaid": false,
+      "paidSum": null,
+      "payType": null,
+      "positionCount": 4,
+      "productsCount": -27.52,
+      "productsSum": 156.32,
+      "status": "заказ покупателя",
+    },
+  ],
+  "pagesCount": 2,
+  "rowsCount": 20,
+  "totalAllSum": -4485.762,
+  "totalPaidSum": -3.551,
+  "totalProductSum": -4485.762,
+}
+`;
+
+exports[`Status Filter Get Products status [0, 2, 3] 1`] = `
+{
+  "pagesCount": 12,
+  "products": [
+    {
+      "avgPrice": 55.4967,
+      "id": 58201,
+      "maxPrice": 55.4967,
+      "minPrice": 55.4967,
+      "name": "Закрутка геннакера серия 60. верхний шарнир",
+      "ordersCount": 1,
+      "totalCount": 2,
+      "totalSum": -110.9934,
+    },
+    {
+      "avgPrice": 90.3865,
+      "id": 58200,
+      "maxPrice": 90.3865,
+      "minPrice": 90.3865,
+      "name": "Закрутка для геннакера серия 60. нижняя часть",
+      "ordersCount": 1,
+      "totalCount": 2,
+      "totalSum": -180.773,
+    },
+    {
+      "avgPrice": 6,
+      "id": 58164,
+      "maxPrice": 6,
+      "minPrice": 6,
+      "name": "MegaTwin 07 PES беж 12mm",
+      "ordersCount": 1,
+      "totalCount": -30,
+      "totalSum": 180,
+    },
+    {
+      "avgPrice": 1680,
+      "id": 58162,
+      "maxPrice": 1680,
+      "minPrice": 1680,
+      "name": "Набор рантоут, стоячий такелаж",
+      "ordersCount": 2,
+      "totalCount": -2,
+      "totalSum": 3360,
+    },
+    {
+      "avgPrice": 50,
+      "id": 58161,
+      "maxPrice": 50,
+      "minPrice": 50,
+      "name": "Буй швартовый",
+      "ordersCount": 1,
+      "totalCount": 1,
+      "totalSum": -50,
+    },
+    {
+      "avgPrice": 24.8637,
+      "id": 58160,
+      "maxPrice": 24.8637,
+      "minPrice": 24.8637,
+      "name": "Rope bag Grey PVC|Mesh wide 400x250x200mm",
+      "ordersCount": 2,
+      "totalCount": 12,
+      "totalSum": -298.3644,
+    },
+    {
+      "avgPrice": 190.5398,
+      "id": 58159,
+      "maxPrice": 190.5398,
+      "minPrice": 190.5398,
+      "name": "SeaProp60 MEMBRANE (INC WATER SENSOR TAPPING) 05-2012176",
+      "ordersCount": 1,
+      "totalCount": 1,
+      "totalSum": -190.5398,
+    },
+    {
+      "avgPrice": 49.8002,
+      "id": 58158,
+      "maxPrice": 49.8002,
+      "minPrice": 49.8002,
+      "name": "OIL SEAL, ZF SD10, 3307.301.016.01",
+      "ordersCount": 1,
+      "totalCount": 2,
+      "totalSum": -99.6004,
+    },
+    {
+      "avgPrice": 25,
+      "id": 58154,
+      "maxPrice": 25,
+      "minPrice": 25,
+      "name": "Перчатки JS",
+      "ordersCount": 1,
+      "totalCount": 1,
+      "totalSum": -25,
+    },
+    {
+      "avgPrice": 10,
+      "id": 58153,
+      "maxPrice": 10,
+      "minPrice": 10,
+      "name": "Amey Plastics Nab Shackles - Small 10mm Line - Pair",
+      "ordersCount": 1,
+      "totalCount": 1,
+      "totalSum": -10,
+    },
+  ],
+  "rowsCount": 120,
+}
+`;

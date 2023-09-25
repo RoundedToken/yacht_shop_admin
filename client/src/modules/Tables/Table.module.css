@@ -1,0 +1,24 @@
+.paginationContainer {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    margin-top: 10px;
+}
+
+.sortColumn {
+    cursor: pointer;
+    user-select: none;
+}
+
+.tableContainer {
+    display: flex;
+    gap: 25px;
+}
+
+.productNameCell {
+    cursor: pointer;
+}
+
+.productNameCell:hover {
+    color: red;
+}

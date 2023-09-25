@@ -33,11 +33,16 @@ table {
     line-height: 1.4; /* Отступ между строками */
 }
 
+th {
+    position: relative;
+}
+
 th,
 td {
     border: 1px solid #eee; /* Рамка для ячеек */
-    padding: 8px; /* Отступ внутри ячеек */
+    padding: 5px;
     text-align: left; /* Выравнивание текста */
+    white-space: break-spaces;
 }
 
 caption {
@@ -53,9 +58,28 @@ ul {
     list-style: none;
 }
 
+a {
+    color: white;
+    font-weight: 600;
+}
+
 #app {
     width: 100vw;
     height: 100dvh;
     display: flex;
     justify-content: center;
+}
+
+.tablesContainer {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
+
+.filters {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    row-gap: 10px;
+    margin-bottom: 50px;
+    place-items: center;
 }

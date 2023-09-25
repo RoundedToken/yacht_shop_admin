@@ -1,0 +1,11 @@
+.visibilityToggle {
+    display: none;
+}
+.visibilityToggle + label {
+    font-size: 25px;
+    cursor: pointer;
+}
+
+.visibilityToggle:checked + label {
+    color: rgba(37, 178, 37, 0.631);
+}

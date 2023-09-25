@@ -1,0 +1,37 @@
+.radioGroup {
+    display: flex;
+    gap: 10px;
+    font-size: 25px;
+    white-space: nowrap;
+}
+
+.radioGroup input {
+    display: none;
+}
+
+.radioGroup label {
+    cursor: pointer;
+}
+
+.radioGroup input:checked + label {
+    color: rgba(37, 178, 37, 0.631);
+}
+
+.productFilter {
+    cursor: pointer;
+    font-size: 25px;
+}
+
+input[type='date'] {
+    height: 50px;
+    font-size: 20px;
+}
+
+.clientsList input {
+    width: 300px;
+    font-size: 20px;
+}
+
+.clientsList label {
+    font-size: 25px;
+}

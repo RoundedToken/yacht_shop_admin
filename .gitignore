@@ -1,5 +1,5 @@
 __snapshots__/
-
+.env.production
 # Logs
 logs
 *.log

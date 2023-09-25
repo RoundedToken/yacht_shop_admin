@@ -20,7 +20,7 @@ export const useFetch = <T>(
 
     const fetchSales = useCallback(async () => {
         try {
-            const res = await fetch(`http://192.168.1.37:5000/api/${endpoint}/?${paramsStr}`);
+            const res = await fetch(`${import.meta.env.VITE_API_URL}/${endpoint}/?${paramsStr}`);
             const resData = await res.json();
             setData(resData);
             setIsLoading(false);

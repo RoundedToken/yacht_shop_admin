@@ -25,8 +25,6 @@ YachtShop Admin Panel –– a minimalist SPA for internal use by the [YachtShop
 <p>
 <img background-color='#ECD53F' width='64' src='https://github.com/RoundedToken/yacht_shop_admin/assets/117864556/b3ae4356-16be-454d-97dd-1d5d30f49413'/>
 &emsp;
-<img background-color='#ECD53F' width='64' src='https://github.com/RoundedToken/yacht_shop_admin/assets/117864556/e48337bb-5b2a-4048-a61d-6fa10497bbd4'/>
-&emsp;
 <img background-color='#ECD53F' width='64' src='https://user-images.githubusercontent.com/117864556/231824252-08d1c71a-1e9c-492a-9762-e72268ab52b8.svg'/>
 &emsp;
 <img background-color='#ECD53F' width='64' src='https://github.com/RoundedToken/yacht_shop_admin/assets/117864556/e2e010b3-4281-4e3c-a4a0-ea1d065861bb'/>
@@ -53,7 +51,7 @@ YachtShop Admin Panel –– a minimalist SPA for internal use by the [YachtShop
 - Designed a `multilayer architecture` with `routing`, `controllers` and application `services` on the `Express framework`
 - Wrote complex `SQL queries` in native `MS SQL` query language
 - Applied best practices like `code reuse`, `isolation` and `parallelization of asynchronous operations`
-- Covered all scenarios with `34 isolated tests` using the `Bun API`
+- Covered all scenarios with `34 isolated integration tests` 
 
 ### Front-end
 

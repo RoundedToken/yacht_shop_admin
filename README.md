@@ -28,6 +28,8 @@ YachtShop Admin Panel –– a minimalist SPA for internal use by the [YachtShop
 <img background-color='#ECD53F' width='64' src='https://user-images.githubusercontent.com/117864556/231824252-08d1c71a-1e9c-492a-9762-e72268ab52b8.svg'/>
 &emsp;
 <img background-color='#ECD53F' width='64' src='https://github.com/RoundedToken/yacht_shop_admin/assets/117864556/e2e010b3-4281-4e3c-a4a0-ea1d065861bb'/>
+&emsp;
+<img background-color='#ECD53F' width='64' src='https://github.com/RoundedToken/yacht_shop_admin/assets/117864556/b97fbc98-d9c9-4179-b416-e6eccc6c8de8'/>
 
 ### IaC and CI/CD
 <p>

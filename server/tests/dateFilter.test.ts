@@ -1,4 +1,4 @@
-import { describe, expect, test } from 'bun:test';
+import { test, describe } from 'vitest';
 import { testFetch } from '../utils/testFetch';
 
 describe('Date Filter', () => {
@@ -13,13 +13,13 @@ describe('Date Filter', () => {
             '{"dateFrom":"2022-08-01","dateTo":"2022-08-04","payType":null,"status":[1,-1],"isPaid":null,"product":null,"client":null}',
     };
 
-    test('Get Sales from 2022-08-01 to 2022-08-04', async () => {
+    test('Get Sales from 2022-08-01 to 2022-08-04', async ({ expect }) => {
         const data = await getSales.getData(params);
 
         expect(data).toMatchSnapshot();
     });
 
-    test('Get Products from 2022-08-01 to 2022-08-04', async () => {
+    test('Get Products from 2022-08-01 to 2022-08-04', async ({ expect }) => {
         const data = await getProducts.getData(params);
 
         expect(data).toMatchSnapshot();

@@ -1,11 +1,11 @@
-import { describe, expect, test } from 'bun:test';
+import { test, describe } from 'vitest';
 import { testFetch } from '../utils/testFetch';
 
 describe('Pay Type Filter', () => {
     const getSales = new testFetch('/get_sales');
     const getProducts = new testFetch('/get_products');
 
-    test('Get Sales payType: Нал', async () => {
+    test('Get Sales payType: Нал', async ({ expect }) => {
         const params = {
             pageIndex: '0',
             pageSize: '10',
@@ -19,7 +19,7 @@ describe('Pay Type Filter', () => {
         expect(data).toMatchSnapshot();
     });
 
-    test('Get Products payType: Нал', async () => {
+    test('Get Products payType: Нал', async ({ expect }) => {
         const params = {
             pageIndex: '0',
             pageSize: '10',
@@ -33,7 +33,7 @@ describe('Pay Type Filter', () => {
         expect(data).toMatchSnapshot();
     });
 
-    test('Get Sales payType: Visa', async () => {
+    test('Get Sales payType: Visa', async ({ expect }) => {
         const params = {
             pageIndex: '0',
             pageSize: '10',
@@ -47,7 +47,7 @@ describe('Pay Type Filter', () => {
         expect(data).toMatchSnapshot();
     });
 
-    test('Get Products payType: Visa', async () => {
+    test('Get Products payType: Visa', async ({ expect }) => {
         const params = {
             pageIndex: '0',
             pageSize: '10',
@@ -61,7 +61,7 @@ describe('Pay Type Filter', () => {
         expect(data).toMatchSnapshot();
     });
 
-    test('Get Sales payType: payType: Б/н', async () => {
+    test('Get Sales payType: payType: Б/н', async ({ expect }) => {
         const params = {
             pageIndex: '0',
             pageSize: '10',
@@ -75,7 +75,7 @@ describe('Pay Type Filter', () => {
         expect(data).toMatchSnapshot();
     });
 
-    test('Get Products payType: payType: Б/н', async () => {
+    test('Get Products payType: payType: Б/н', async ({ expect }) => {
         const params = {
             pageIndex: '0',
             pageSize: '10',

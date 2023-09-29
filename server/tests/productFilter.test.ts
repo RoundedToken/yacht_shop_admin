@@ -1,10 +1,10 @@
-import { describe, expect, test } from 'bun:test';
+import { test, describe } from 'vitest';
 import { testFetch } from '../utils/testFetch';
 
 describe('Product Filter', () => {
     const getSales = new testFetch('/get_sales');
 
-    test('Get Sales product: 58160', async () => {
+    test('Get Sales product: 58160', async ({ expect }) => {
         const params = {
             pageIndex: '0',
             pageSize: '10',
@@ -18,7 +18,7 @@ describe('Product Filter', () => {
         expect(data).toMatchSnapshot();
     });
 
-    test('Get Products product: 58169', async () => {
+    test('Get Products product: 58169', async ({ expect }) => {
         const params = {
             pageIndex: '0',
             pageSize: '10',

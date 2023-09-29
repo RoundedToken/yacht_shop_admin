@@ -1,10 +1,11 @@
+import 'dotenv/config';
 import express from 'express';
-import { sqlConfig } from './config.js';
+import { sqlConfig } from './config';
 import sql from 'mssql';
 import cors from 'cors';
-import router from './routes/index.js';
+import router from './routes/index';
 
-const PORT = process.env.PORT || 5000;
+const PORT = process.env.PORT || 5555;
 const app = express();
 
 app.use(
@@ -18,7 +19,11 @@ app.use('/api', router);
 
 const start = () => {
     try {
-        sql.connect(sqlConfig, () => console.log('DB connected'));
+        sql.connect(sqlConfig, (error) => {
+            if (error) console.log(error);
+            else console.log('DB connected');
+        });
+
         app.listen(+PORT, process.env.ADDRESS || 'localhost', () =>
             console.log(`Server started on ${PORT}`)
         );

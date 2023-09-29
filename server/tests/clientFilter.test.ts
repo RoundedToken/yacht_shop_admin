@@ -1,11 +1,11 @@
-import { describe, expect, test } from 'bun:test';
+import { test, describe } from 'vitest';
 import { testFetch } from '../utils/testFetch';
 
-describe('Client Filter', () => {
+describe.concurrent('Client Filter', () => {
     const getSales = new testFetch('/get_sales');
     const getProducts = new testFetch('/get_products');
 
-    test('Get Sales client: 11226', async () => {
+    test('Get Sales client: 11226', async ({ expect }) => {
         const params = {
             pageIndex: '0',
             pageSize: '10',
@@ -19,7 +19,7 @@ describe('Client Filter', () => {
         expect(data).toMatchSnapshot();
     });
 
-    test('Get Products client: 11226', async () => {
+    test('Get Products client: 11226', async ({ expect }) => {
         const params = {
             pageIndex: '0',
             pageSize: '10',
@@ -33,7 +33,7 @@ describe('Client Filter', () => {
         expect(data).toMatchSnapshot();
     });
 
-    test('Get Sales client: 11243', async () => {
+    test('Get Sales client: 11243', async ({ expect }) => {
         const params = {
             pageIndex: '0',
             pageSize: '10',
@@ -47,7 +47,7 @@ describe('Client Filter', () => {
         expect(data).toMatchSnapshot();
     });
 
-    test('Get Products client: 11243', async () => {
+    test('Get Products client: 11243', async ({ expect }) => {
         const params = {
             pageIndex: '0',
             pageSize: '10',

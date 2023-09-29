@@ -1,12 +1,11 @@
 import { RequestHandler } from 'express';
-import salesService from '../services/salesService.js';
-import { TGetOrderParams, TGetProductsParams, TGetSalesParams } from '../types.js';
+import salesService from '../services/salesService';
+import { TGetOrderParams, TGetProductsParams, TGetSalesParams } from '../types';
 
 class SalesController {
     getSales: RequestHandler = async (req, res, next) => {
         try {
             const params = req.query as TGetSalesParams;
-            console.log(params);
 
             const sqlResData = await salesService.getSales(params);
 
